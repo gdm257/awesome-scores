@@ -1,1 +1,5 @@
-侵删
+- https://github.com/noteflakes/music
+- https://github.com/wbsoft/lilymusic
+- https://github.com/cellist/Lilypond-Sheet-Music
+- https://github.com/nsceaux/nenuvar
+- https://github.com/AyHa1810/touhou-midi-collection
