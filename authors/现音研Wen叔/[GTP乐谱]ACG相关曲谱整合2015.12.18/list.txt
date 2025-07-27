@@ -1,0 +1,1915 @@
+list list.txt
+[aika r-16]sailing to the future 总谱 by abacab.gp5
+[air]てんとう虫(瓢虫) 指弹.gp5
+[air]回想录 指弹.gp5
+[air]夏影 双吉他.gp5
+[air]夏影 双吉他2.gp5
+[air]夏影 指弹.gp5
+[air]夢語り 指弹.gp5
+[air]银色 指弹.gp5
+[air]银色 指弹2.gp5
+[air]鸟之诗 指弹by広能昌三.gp5
+[air]鸟之诗 钢琴.gp5
+[air]鸟之诗 钢琴2.gp5
+[air]鸟之诗原版.gp5
+[air]鸟之诗完美版.gp5
+[akb48(ske48)]ごめんね、summer 总谱.gp5
+[akb48]10年桜 总谱.gp5
+[akb48]2人乗りの自転車 总谱.gp5
+[akb48]akb参上 总谱.gp5
+[akb48]beginner 总谱.gp5
+[akb48]bingo 总谱.gp5
+[akb48]bingo 总谱2.gp5
+[akb48]blue rose 总谱.gp5
+[akb48]everyday、カチューシャ(头带) 总谱.gp5
+[akb48]first rabbit 总谱.gp5
+[akb48]give me five 总谱.gp5
+[akb48]heavy rotation 总谱.gp5
+[akb48]river 总谱.gp5
+[akb48]run run run 总谱.gp5
+[akb48]so long! 总谱.gp5
+[akb48]ポニーテールとシュシュ 钢琴独奏.ove
+[akb48]ポニーテールとシュシュ(马尾辫与发圈) 总谱.gp5
+[akb48]マジスカロックンロール(马路须加摇滚) 总谱.gp5
+[akb48]会いたかった(好想见你) 总谱.gp5
+[akb48]僕の太阳(我的太阳) 总谱.gp5
+[akb48]前しか向かねえ(只朝前方) 总谱.gp5
+[akb48]向日葵 总谱.gp5
+[akb48]君のことが好きだから(因为最喜欢你) 总谱.gp5
+[akb48]大声ダイヤモンド 总谱2.gp5
+[akb48]大声ダイヤモンド(大声钻石) 总谱.gp5
+[akb48]恋するフォーチューンクッキー 总谱2.gp5
+[akb48]恋するフォーチューンクッキー(恋爱幸运曲奇) 总谱.gp5
+[akb48]桜の木になろう 钢琴独奏.ove
+[akb48]桜の木になろう(成为樱树吧) 指弹.gp5
+[akb48]残念少女 总谱.gp5
+[akb48]涙サプライズ(惊喜之泪) 总谱.gp5
+[akb48]言い訳maybe(也许是借口) 总谱.gp5
+[aldnoah zero]aliez 总谱.gp5
+[amnesia失忆症]zoetrope 吉他.gp5
+[angel beats!]23：50 吉他solo.gp5
+[angel beats!]alchemy 双吉他.gp5
+[angel beats!]alchemy 总谱.gp5
+[angel beats!]alchemy 总谱2.gp5
+[angel beats!]answer song 吉他.gp5
+[angel beats!]brave song 总谱.gp5
+[angel beats!]brave song 总谱2.gp5
+[angel beats!]brave song 指弹.gp5
+[angel beats!]brave song 指弹2.gp5
+[angel beats!]brave song 指弹tv.side.gp5
+[angel beats!]crow song 总谱.gp5
+[angel beats!]crow song 总谱2.gp5
+[angel beats!]highest life 吉他.gp5
+[angel beats!]last song 吉他.gp5
+[angel beats!]little braver 总谱.gp5
+[angel beats!]little braver 总谱2.gp5
+[angel beats!]morning dreamer 总谱.gp5
+[angel beats!]my song 总谱.gp5
+[angel beats!]my song 指弹.gp5
+[angel beats!]my soul,your beats solo.gp5
+[angel beats!]my soul,your beats 总谱(第4话yui摇滚版).gp5
+[angel beats!]my soul,your beats 总谱.gp5
+[angel beats!]my soul,your beats 总谱2.gp5
+[angel beats!]my soul,your beats 指弹.gp5
+[angel beats!]rain song 吉他.gp5
+[angel beats!]run with wolves 双吉他.gp5
+[angel beats!]shine days 总谱.gp5
+[angel beats!]theme of sss 总谱.gp5
+[angel beats!]thousand enemies 双吉他.gp5
+[angel beats!]thousand enemies 总谱.gp5
+[angel beats!]unjust life 指弹.gp5
+[angel beats!]一番の宝物 指弹.gp5
+[angel beats!]一番の宝物 指弹2.gp5
+[angel beats!]一番の宝物(最重要的宝物) 总谱.gp5
+[beck]evolution 贝斯.gp5
+[beck]face 总谱.gp4
+[beck]face 总谱2.gp4
+[beck]face 指弹.gp4
+[beck]follow me 总谱.gp4
+[beck]hit in the usa 总谱.gp4
+[beck]hit in the usa 总谱2.gp4
+[beck]hyoudou song 双吉他.gp4
+[beck]i've got a feeling 总谱.gp5
+[beck]i've got a feeling 总谱2.gp5
+[beck]i've got a feeling 总谱3.gp4
+[beck]journey beta 总谱.gp4
+[beck]koyuki&episode_blues 总谱.gp4
+[beck]looking back 总谱.gp5
+[beck]lost melody 总谱.gp4
+[beck]moon on the water 总谱.gp5
+[beck]my world down 总谱.gp4
+[beck]slip out 总谱.gp5
+[beck]slip out 总谱2.gp4
+[beck]slip outs 指弹.gp4
+[beck]spice of life 总谱.gp4
+[beck]welcome to my life 总谱.gp4
+[c.g mix]swept away 总谱.gp5
+[c3魔方少女]endless story 总谱.gp5
+[clannad]light colors 总谱.gp5
+[clannad]light colors 指弹.gp5
+[clannad]メグメル(幻想) 指弹.gp5
+[clannad]东风 指弹.gp5
+[clannad]团子大家族 总谱.gp5
+[clannad]团子大家族 指弹.gp5
+[clannad]团子大家族 指弹2.gp5
+[clannad]团子大家族 钢琴版.gp5
+[clannad]小小的手心 指弹.gp5
+[clannad]时を刻む呗 指弹.gp5
+[clannad]欢乐岛 指弹.gp5
+[clannad]汐 指弹.gp5
+[clannad]潮鸣り 总谱.gp5
+[clannad]潮鸣り 总谱2.gp5
+[clannad]潮鸣り 指弹.gp5
+[clannad]白诘草 指弹.gp5
+[clannad]空に光る 指弹2.gp5
+[clannad]空に光る(空之光) 指弹.gp5
+[depapepe]start 双吉他.gp5
+[dog days]miracle colors 总谱.gp5
+[eva]fly me to the moon 总谱.gp5
+[eva]fly me to the moon 指弹.gp5
+[eva]fly me to the moon 指弹2.gp5
+[eva]komm,susser tod 指弹.gp5
+[eva]残酷的天使纲领 双吉他.gp5
+[eva]残酷的天使纲领 总谱.gp5
+[eva]残酷的天使纲领 总谱2.gp5
+[eva]残酷的天使纲领 总谱3.gp5
+[eva]残酷的天使纲领 指弹 by南泽大介.gp5
+[eva]残酷的天使纲领 指弹.gp5
+[eva]残酷的天使纲领柔和版.gp5
+[eva]给我一双翅膀 指弹.gp5
+[fate stay night ubw]ideal white 吉他.gp5
+[fate stay night]memory 指弹.gp5
+[fate stay night]あなたがいた森(曾有你的森林) 指弹.gp5
+[fate stay night]今はその剣を置いて 合奏.gp5
+[fate stay night]今はその剣を置いて(现在先把剑放在一边) 指弹.gp5
+[fate stay night]光 总谱.gp5
+[fate stay night]光 指弹.gp5
+[fate stay night]命运の夜 指弹.gp5
+[fate stay night]命运之夜 指弹2.gp5
+[fate stay night]孤独的巡礼 合奏.gp5
+[fate stay night]孤独的巡礼 指弹.gp5
+[fate stay night]曾有你的森林 合奏.gp5
+[fate stay night]曾有你的森林 指弹.gp5
+[fate stay night]曾有你的森林.gp5
+[fate stay night]绊 指弹.gp5
+[fate stay night]騎士王の誇り(骑士王的荣耀) 总谱.gp5
+[fate stay night]骑士王的荣耀 钢琴.gp5
+[fate zero]memoria 吉他.gp5
+[fate zero]oath sign 总谱.gp5
+[fate zero]oath sign 总谱2.gp5
+[fate zero]空は高く風は歌う 指弹.gp5
+[fate zero]空は高く風は歌う 钢琴.ove
+[free!]rage on 吉他.gp5
+[gosick]destin histoire 总谱.gp5
+[gosick]destin histoire 总谱.gpx
+[is]夏露角色歌(solo) 总谱.gp5
+[jkdk]akb48翻弹 主音.gp5
+[jkdk]动漫歌曲连弹 主音.gp5
+[jkdk]口袋妖怪串烧 主音.gp5
+[jojo]round about 总谱.gp5
+[kanon]last regrets 指弹.gp5
+[kanon]冬の花火 指弹.gp5
+[kanon]夢の跡 指弹.gp5
+[kanon]風を待った日(等风的日子) 总谱.gp5
+[kill la kill(斩服少女)]ambiguous 双吉他.gp5
+[kill la kill(斩服少女)]ambiguous 贝斯.gp5
+[kill la kill(斩服少女)]シリウス(天狼星) 总谱.gp5
+[kokia]ありがとう(谢谢) 指弹.gp5
+[kokia]白雪 总谱.gp5
+[little busters!]alicemagic 总谱.gp5
+[little busters!]little busters! 总谱.gp5
+[little busters!]little busters! 总谱2.gp5
+[little busters!]遥か彼方 指弹.gp5
+[little busters]song for friends 指弹.gp5
+[lovelive!]angelic angel 总谱.gp5
+[lovelive!]future style 总谱.gp5
+[lovelive!]loveless world 总谱.gp5
+[lovelive!]snow halation 总谱.gp5
+[lovelive!]sunny day song 总谱.gp5
+[lovelive!]それは僕たちの奇跡(这是我们的奇迹) 总谱.gp5
+[lovelive!]夏色えがおで1,2,jump! 指弹.gp5
+[lovelive!]夏色えがおで1,2,jump!(夏色的笑容1,2jump!) 总谱.gp5
+[lovelive!]孤独なheaven 总谱(tg文件用tuxguitar打开).tg
+[lovelive!]微热からmystery(来自微热的神秘).gp5
+[lovelive!]愛してるばんざーい! 指弹.gp5
+[lovelive!]愛してるばんざーい!(喜欢你万岁) 总谱.gp5
+[lovelive]ありふれた悲しみの果て(司空见惯的悲伤的尽头) 总谱.gp5
+[mm一族!!] help!! -hell side- 总谱.gp5
+[nana]endless story 总谱.gp5
+[nana]endless story 总谱2.gp5
+[nana]glamorous sky 总谱.gp5
+[nana]glamorous sky 总谱2.gp5
+[nana]rose 总谱.gp5
+[narcissu]週末の過ごし方より(如何度过周末) 指弹.gp5
+[nba]where amazing happens 指弹.gp5
+[nba]where amazing happens.gp5
+[nico&洛克人]思い出は亿千万 总谱2.gp5
+[nico&洛克人]思い出は亿千万 总谱3.gp5
+[nico&洛克人]思い出は亿千万(回忆足有亿千万) 总谱.gp5
+[nico&洛克人]打不倒的空气人 总谱.gp5
+[nico&洛克人]打不倒的空气人 总谱2.gp5
+[nico]highly strung 总谱.gp5
+[nico]just be friends 指弹.gp5
+[nico]just be friends 钢琴.ove
+[nico]magnet 总谱.gp5
+[nico]merry christmas mr.lawrence 指弹 by 武士桑.gp5
+[nico]silent knight 总谱.gp5
+[nico]おちゃめ机能(俏皮的机能) 吉他.gp5
+[nico]からくりピエロ(活动小丑) 总谱 by 武士桑.gp5
+[nico]からくりピエロ(活动小丑) 钢琴 bygero.ove
+[nico]なまえのないうた(没有名字的歌曲)(vip店长版) 总谱.gp5
+[nico]サマータイムレコード(summer time record) 总谱 by武士さん.gp5
+[nico]ワールズエンド ダンスホール(世界终结舞厅) 指弹 by武士桑.gp5
+[nico]上弦の月 指弹.gp5
+[nico]嘘 指弹 by武士桑.gp5
+[nico]天ノ弱(ピコ版) 总谱.gp5
+[nico]家に帰ると妻が必ず死んだふりをしています 指弹.gp5
+[nico]家に帰ると妻が必ず死んだふりをしています(每天回家都看见我老婆在装死) 总谱.gp5
+[nico]快乐合成器 指弹 by武士桑.gp5
+[nico]相思花 指弹.gp5
+[nico]秋姐妹鸣泣之时 总谱.gp5
+[nico]透明少女 总谱.gp5
+[niko]river flows in you 总谱.gp5
+[no game no life]this game 总谱.gp5
+[no game no life]オラシオン 吉他.gp5
+[one on rock]re make 总谱.gp5
+[ozielzinho]illusion 总谱.gp3
+[rewrite]philosophyz 总谱.gp5
+[scandal]baby 总谱.gp5
+[scandal]doll 双吉他.gp5
+[scandal]houkago 总谱.gp5
+[scandal]love survive 总谱.gp5
+[scandal]pride v.1.gp5
+[scandal]scandal nanka buttobase 总谱.gp5
+[scandal]shoujo s.gp5
+[scandal]shunkan sentimental 总谱.gp5
+[scandal]taiyou to kimi ga egaku story 总谱.gp5
+[scandal]少女s 总谱.gp5
+[sound horizon&浦尾由纪]砂尘の彼方へ(去往沙尘的彼方) 总谱.gp5
+[sound horizon]eru no rakuen 总谱.gp5
+[sound horizon]光明与黑暗的童话 总谱.gp5
+[supercell]さよならメモリー(再见回忆) 总谱.gp5
+[supercell]カレ 总谱.gp5
+[supercell]星が瞬くこんな夜に 吉他.gp5
+[supercell]約束をしよう 指弹.gp5
+[tari tari] ost 心之旋律 钢琴.ove
+[tari tari]dreamer 双吉他.gp5
+[tari tari]dreamer 贝斯.gp5
+[tari tari]心の旋律 合唱谱.gp5
+[tari tari]心の旋律 总谱2.gp5
+[tari tari]心の旋律 指弹.gp5
+[the baits]sunshine girl 总谱.gp5
+[to love] forever we can make it 总谱.gp5
+[vividred operation]energy (tv.size) 总谱.gp5
+[v家]1 2 fan club 总谱.gp5
+[v家]1925 总谱.gp5
+[v家]blackboard 总谱.gp5
+[v家]hello laughter 吉他.gp5
+[v家]helloworker compact 总谱.gp5
+[v家]imitation black 吉他.gp5
+[v家]jabberwocky jabberwocka 总谱.gp5
+[v家]leia(original) 总谱.gp5
+[v家]lily start 吉他.gp5
+[v家]mozaikuro-ru 总谱.gp5
+[v家]s 总谱.gp5
+[v家]sing for the moment 总谱.gp5
+[v家]summer time record 双吉他.gp5
+[v家]アブストラクトナンセンス 吉他.gp5
+[v家]カゲロウデイズ 吉他.gp5
+[v家]カミサマネジマキ 贝斯.gp5
+[v家]キラワレ 吉他.gp5
+[v家]ココロ(内心) 总谱.gp5
+[v家]シザーハンズ 吉他.gp5
+[v家]セツナトリップ 双吉他.gp5
+[v家]セツナトリップ 吉他.gp5
+[v家]ダブルラリアット 总谱.gp5
+[v家]デッドレッドガールズ 贝斯(tuxguitar文件).tg
+[v家]ドーナツホール 钢琴&贝斯.gp5
+[v家]バイビーベイビーサヨウナラ 总谱.gp5
+[v家]ポーカーフェイス 吉他.gp5
+[v家]マトリョシカ(俄罗斯套娃) 指弹.gp5
+[v家]メランコリック 吉他.gp5
+[v家]メランコリック 总谱.gp5
+[v家]モサイクロール(马赛克卷) 双吉他.gp5
+[v家]モザイクロール 总谱.gp5
+[v家]モザイクロール 总谱2.gp5
+[v家]ヤキモチの答え(吃醋的答案) 双吉他.gp5
+[v家]リリリリ★バーニングナイト 吉他.gp5
+[v家]ロスタイムメモリー(回憶時補) 总谱.gp5
+[v家]ロストワンの号哭 总谱.gp5
+[v家]ロストワンの号哭 总谱2.gp5
+[v家]ワールズエンド﹒ダンスホール(世界尽头舞厅) 总谱.gp5
+[v家]东京テディベア 贝斯.gp5
+[v家]伤潮溺亡 总谱.gp5
+[v家]六兆年と一夜物語 双吉他.gp5
+[v家]六兆年と一夜物語 总谱.gp5
+[v家]十面相 总谱.gp5
+[v家]吉原哀歌 双吉他.gp5
+[v家]夜咄ディセイブ by武士桑 指弹.gp5
+[v家]如月アテンション 吉他贝斯.gp5
+[v家]妄想税 总谱.gp5
+[v家]孤独の果て 总谱.gp5
+[v家]小小恋歌 总谱.gp5
+[v家]弱虫モンブラン 吉他.gp5
+[v家]弱虫モンブラン 总谱2.gp5
+[v家]弱虫モンブラン(胆小鬼蒙布朗) 总谱.gp5
+[v家]恶之召使(初版) 钢琴.gp5
+[v家]想イ出カケラ(memory’s fragment) 总谱.gp4
+[v家]放課後ストライド 指弹.gp5
+[v家]朝と夜の物語.gp5
+[v家]東京テディベア 双吉他.gp5
+[v家]東京テディベア(东京泰迪熊) 总谱.gp5
+[v家]梦花火 总谱.gp5
+[v家]爱dee 贝斯.gp5
+[v家]球型路線 总谱.gp5
+[v家]脳浆炸裂ガール 总谱.gp5
+[v家]脳浆炸裂ガール 贝斯.gp5
+[v家]脳浆炸裂ガール(脑浆炸裂女孩)  总谱.gpx
+[v家]般若心経ハードコア(heart sutra hardcore) 总谱.gp5
+[v家]谁でもいいから付き合いたい(是谁都好求交往) 总谱.gp5
+[v家]雪月花 总谱.gp5
+[zone]h.a.n.a.b.i～君がいた夏 总谱.gp5
+[一公升的眼泪]粉雪 总谱.gp5
+[一周的朋友]奏 指弹.gp5
+[一周的朋友]记忆の消失 指弹.gp5
+[一拳超人]the hero!! ~怒れる拳に火をつけろ~ 总谱tv.size.gp5
+[七人魔法使]seven doors 吉他.gp5
+[七大罪]7 -seven- 总谱.gp5
+[七宝奇谋]七宝奇谋ost 总谱.gp5
+[七彩素描]日々(日子) 指弹.gp5
+[七龙珠z]we gotta power 总谱.gp5
+[七龙珠z]we were angels 总谱.gp5
+[万万没想到]还是没想到 指弹.gp5
+[三人行必有我妹]heavenly lover 吉他.gp5
+[三国志]英雄的黎明 总谱.gp5
+[三国志]英雄的黎明 指弹.gp5
+[三目童子]三目童子ost 指弹.gp5
+[上古卷轴5：天际]main theme 总谱.gp5
+[上古卷轴5：天际]sons of skyrim 总谱.gp5
+[上古卷轴5：天际]the dragonborn comes 总谱.gp5
+[世界上最ng的恋爱]陽だまりコイゴコロ 总谱.gp5
+[东京事变]ssaw 总谱.gp5
+[东京事变]キラーチューン 总谱.gp5
+[东京事变]ブラックアウト 总谱.gp5
+[东京事变]修罗场 总谱.gp5
+[东京事变]御祭騒ぎ 总谱.gp5
+[东京热]tokyo hot 总谱.gpx
+[东京热]tokyo hot 总谱2.gp5
+[东京爱情故事]突如其来的爱情故事 总谱.gp5
+[东京食尸鬼]unravel 总谱.gp5
+[东京食尸鬼]unravel 总谱2.gp5
+[东方project]bad apple 总谱.gp5
+[东方project]bad apple 总谱2.gp5
+[东方project]bad apple 指弹.gp5
+[东方三月精]年中梦中の好奇心 指弹.gp5
+[东方地灵殿]ラストリモート 指弹.gp5
+[东方地灵殿]华のさかづき大江山 总谱.gp5
+[东方地灵殿]封じられた妖怪 总谱.gp5
+[东方地灵殿]少女さとり～3rd eye～ 总谱.gp5
+[东方地灵殿]廃獄ララバイ 总谱.gp5
+[东方地灵殿]旧地狱街道を行く 总谱.gp5
+[东方地灵殿]業火マントル by触手猴.ove
+[东方地灵殿]緑眼のジェラシー 指弹.gp5
+[东方地灵殿]霊知の太陽信仰 指弹.gp5
+[东方妖妖梦]さくらさくら ～ japanize dream 总谱.gp5
+[东方妖妖梦]幽幽子 总谱.gp5
+[东方妖妖梦]幽灵乐团 总谱.gp5
+[东方妖妖梦]幽灵乐团 指弹.gp5
+[东方妖妖梦]幽雅に笑かせ、墨染の樱 指弹 gp6处理版.gpx
+[东方妖妖梦]幽雅に笑かせ、墨染の樱～border of life 总谱.gp5
+[东方妖妖梦]無何有の郷 指弹.gp5
+[东方妖妖梦]色は匂へど散りぬるを 指弹.gp5
+[东方妖妖梦]远野幻想物语 指弹.gp5
+[东方妖妖梦]魂魄妖夢 - 広有射怪鳥事 ～till when 吉他.gp5
+[东方妖妖梦]魔理沙は大変なものを盗んでいきました！ 吉他 .gp5
+[东方星莲船]小さな小さな贤将 总谱.gp5
+[东方星莲船]春の凑に(春之岸边) 指弹.gp5
+[东方星莲船]法界の火 总谱.gp5
+[东方梦时空]maple dream 总谱.gp5
+[东方梦时空]the maid and the pocket watch of blood 指弹.gp5
+[东方永夜抄]もう歌しか聞こえない 指弹.gp5
+[东方永夜抄]もう歌しか闻こえない 总谱.gp5
+[东方永夜抄]シンデレラケージ 指弹.gp5
+[东方永夜抄]プレインエイジア 总谱.gp5
+[东方永夜抄]千年幻想曲 总谱.gp5
+[东方永夜抄]怀かしき东方の血 总谱.gp5
+[东方永夜抄]恋色マスタースパーク 总谱.gp5
+[东方永夜抄]懐かしき東方の血 指弹.gp5
+[东方永夜抄]懐かしき東方の血 指弹2.gp5
+[东方永夜抄]懐かしき東方の血 ～ old world 钢琴.gp5
+[东方永夜抄]月まで届け、不死の煙 指弹.gp5
+[东方永夜抄]月まで届け不死の烟 总谱.gp5
+[东方永夜抄]狂气の瞳 总谱.gp5
+[东方永夜抄]竹取飞翔 总谱.gp5
+[东方神灵殿]ghost lead - ten desires 指弹.gp5
+[东方红魔乡]lunadial 指弹.gp5
+[东方红魔乡]night of knights 总谱.gp5
+[东方红魔乡]night of knights 指弹.gp5
+[东方红魔乡]remilia 指弹.gp5
+[东方红魔乡]u.nオーエンは彼女なのか 总谱.gp5
+[东方红魔乡]u.nオーエンは彼女なのか 总谱2.gp5
+[东方红魔乡]u.nオーエンは彼女なのか 指弹.gp5
+[东方红魔乡]おてんば恋娘 指弹.gp5
+[东方红魔乡]チルノのすうがく教室 指弹.gp5
+[东方红魔乡]メイドと血の懐中时计 指弹.gp5
+[东方红魔乡]上海红茶馆 总谱.gp5
+[东方红魔乡]亡き王女のためのセプテット 总谱.gp5
+[东方红魔乡]亡き王女の为のセプテット 指弹.gp5
+[东方红魔乡]亡き王女の為のセプテット 电吉他.gp5
+[东方红魔乡]妖魔夜行 总谱.gp5
+[东方红魔乡]明治17年の上海アリス 总谱.gp5
+[东方红魔乡]最終鬼畜妹フランドール 总谱.gp5
+[东方红魔乡]月时计 总谱.gp5
+[东方红魔乡]月计时 指弹.gp5
+[东方红魔乡]红楼 ～ eastern dream 总谱.gp5
+[东方红魔乡]红楼 ～ eastern dream 指弹.gp5
+[东方红魔乡]红楼 ～ eastern dream 钢琴.mid
+[东方红魔乡]魔法少女達の百年祭 指弹.gp5
+[东方绯想天]東方緋想天 总谱 by wen叔.gp5
+[东方绯想天则]暮色蒼然 指弹.gp5
+[东方花映冢]フラワリングナイト 吉他.gp5
+[东方花映冢]フラワリングナイト(花朵盛开之夜) 总谱.gp5
+[东方花映冢]春色小径 指弹.gp5
+[东方萃梦想]ヴワル魔法图书馆 总谱.gp5
+[东方萃梦想]天衣无缝 指弹2.gp5
+[东方萃梦想]天衣無縫 指弹.gp5
+[东方萃梦想]碎月 指弹.gp5
+[东方萃梦想]魔女達の舞踏会 指弹.gp5
+[东方风神录]ネイティブフェイス 吉他.gp5
+[东方风神录]ネイティブフェイス 总谱.gp5
+[东方风神录]ネイティブフェイス 指弹.gp5
+[东方风神录]フォールオブフォール ～秋めく滝 总谱.gp5
+[东方风神录]信仰は儚き人間の為に 指弹.ptb
+[东方风神录]信仰は儚き人间の为に 总谱.gp5
+[东方风神录]厄神样の通り道 总谱.gp5
+[东方风神录]厄神様の通り道 指弹.gp5
+[东方风神录]御柱の墓场 总谱.gp5
+[东方风神录]神々が恋した幻想乡 总谱.gp5
+[东方风神录]神々が恋した幻想乡 指弹.gp5
+[东方风神录]神々が恋した幻想郷 钢琴 .ove
+[东方风神录]稻田姬样に叱られるから 总谱.gp5
+[东方风神录]风神少女 吉他.gp5
+[东方风神录]风神少女 总谱.gp5
+[丧女]私がモテないのはどう考えてもお前らが悪い！(我不受欢迎怎么想都是你们的错！) 总谱.gp5
+[中东战争]中东战争ost 总谱.gp5
+[中二病也要谈恋爱]inside identity 吉他.gp5
+[中二病也要谈恋爱]期待しちゃっていいんです 总谱.gp5
+[中华小当家]青い空に出逢えた 指弹.gp5
+[中華一番]君さえいれば(只要你在身边) 总谱.gp5
+[乌贼娘]君がいれば 总谱.gp5
+[乌贼娘]君がいれば 总谱2.gp5
+[乐与路]solanin 总谱.gp5
+[云之彼端,约定的地方]hiroki's melody 指弹.gp5
+[云之彼端,约定的地方]你的声音 指弹.gp5
+[交响诗篇]flow days 总谱.gp5
+[人类衰退之后]リアルワールド(real world)  总谱.gp5
+[仙剑奇侠传]再续未了缘 总谱.gp5
+[仙剑奇侠传]雨 总谱.gp5
+[伊克西翁传说dt]dt舍テル(舍弃童贞) 总谱.gp5
+[伪恋]click 吉他.gp5
+[伪恋]ready go round 吉他.gp5
+[伽利略少女]シンクロマニカ 贝斯.gp5
+[侦探歌剧]future after rain 总谱.gp5
+[俄罗斯方块]插曲 指弹.gp5
+[俘虏]戦場のメリークリスマス(战场上的圣诞节快乐) 吉他 by 三代纸姬-魂.gp5
+[俺妹]irony 指弹.gp5
+[俺妹]irony 指弹2.gp5
+[俺妹]wktk 钢琴.gp5
+[俺妹]しっとり(湿润) 总谱.gp5
+[俺妹]すれ违い(擦肩而过) 指弹.gpx
+[俺妹]ただいま。 吉他.gp5
+[俺妹]ただいま。 总谱.gp5
+[俺妹]ひととき(瞬间) 总谱.gp5
+[俺妹]よかったね(太好了呐) 总谱.gp5
+[俺妹]妹プリ~ズ!(拜托了妹妹) 贝斯slap.gp5
+[俺妹]帰り道(归途) 总谱.gp5
+[俺妹]梅露露主题曲 吉他贝斯.gp5
+[偶像大师]hello 总谱.gp5
+[兔八哥]looney tunes 总谱.gp5
+[全职猎人]just awake 总谱.gp5
+[全金属狂潮]tomorrow 总谱.gp5
+[全金属狂潮]那就是爱吧 指弹.gp5
+[再见绝望先生]空想伦巴 总谱.gp5
+[冒险岛]冒险的启航 总谱.gp5
+[军火女王]borderland 吉他(tv.size).gp5
+[冰果]まどろみの約束 钢琴.gp5
+[冰果]まどろみの约束 吉他.gp5
+[冰果]未完成ストライド 吉他.gp5
+[冰雪奇缘]let it go 指弹 by武士桑.gp5
+[凉宫]god knows 总谱.gp5
+[凉宫]god knows 总谱2.gp5
+[凉宫]god knows 总谱3.gp5
+[凉宫]god knows 指弹.gp5
+[凉宫]god knows(抒情版）.gp5
+[凉宫]lost my music 总谱.gp5
+[凉宫]super driver 总谱.gp5
+[凉宫]super driver 总谱2.gp5
+[凉宫]みくるのこころ 指弹.gp5
+[凉宫]大家一起来冒险 总谱.gp5
+[凉宫]恋之实玖留传说 指弹.gp5
+[凉宫]晴天好心情 总谱.gp5
+[凉宫]晴天好心情 指弹.gp5
+[凉宫]晴天好心情 指弹2.gp5
+[刀剑神域]courage 总谱.gp5
+[刀剑神域]courage 总谱2.gp5
+[刀剑神域]crossing field 吉他cover.gp5
+[刀剑神域]crossing field 总谱.gp5
+[刀剑神域]crossing field 贝斯2.gp5
+[刀剑神域]crossing field 贝斯cover .gp5
+[刀剑神域]ignite 总谱.gp5
+[刀剑神域]innocence 吉他贝斯.gp5
+[刀剑神域]overfly 总谱.gp5
+[刀剑神域]smile for me 总谱.gp5
+[刀剑神域]ユメセカイ 总谱.gp4
+[刀语]拍手喝采歌合 总谱.gp5
+[刃牙]刃牙 吉他.gp5
+[创圣的大天使]創聖のアクエリオン 总谱.gp5
+[初音]alice magic 贝斯.gp5
+[初音未来]1925 总谱.gp5
+[初音未来]ai kotoba 总谱.gp5
+[初音未来]cat food 总谱.gp5
+[初音未来]clac. 双吉他.gp5
+[初音未来]dear 吉他(39祭solo).gp5
+[初音未来]dear 吉他.gp5
+[初音未来]dear 总谱.gp5
+[初音未来]dear 总谱2.gp5
+[初音未来]from y to y 总谱.gp5
+[初音未来]glow 总谱.gp5
+[初音未来]hopeless 双吉他.gp5
+[初音未来]ievans polkka(甩葱歌) 总谱.gp5
+[初音未来]last night good night 总谱.gp5
+[初音未来]last night good night 总谱2.gp5
+[初音未来]leia 总谱.gp5
+[初音未来]letter song(致十年后的我) 指弹.gp5
+[初音未来]melt バンドアレンジ(original) 总谱.gp5
+[初音未来]melt 总谱.gp5
+[初音未来]melt 总谱2.gp5
+[初音未来]melt 总谱3.gp5
+[初音未来]melt（ティッシュ姫版ベース） 总谱.gp5
+[初音未来]memory 总谱.gp5
+[初音未来]miku miku ni shite ageru 双吉他.gp5
+[初音未来]odds & ends (piano, by tehishter).gp5
+[初音未来]odds & ends 总谱.gp5
+[初音未来]parade of liars 总谱.gp5
+[初音未来]po pi po 总谱.gp5
+[初音未来]po pi po 钢琴.gp5
+[初音未来]puzzle 总谱.gp5
+[初音未来]rain stops,good-bye 指弹.gp5
+[初音未来]rain stops,good-bye 指弹2.gp5
+[初音未来]risky game 指弹.gp5
+[初音未来]romeocinderella 总谱.gp5
+[初音未来]shiningray 总谱.gp5
+[初音未来]sourpuss 总谱.gp5
+[初音未来]spica 总谱.gp5
+[初音未来]stargazer 双吉他.gp5
+[初音未来]stargazer 总谱.gp5
+[初音未来]stargazer 总谱2.gp5
+[初音未来]tell your world 总谱.gp5
+[初音未来]tell your world 总谱2.gp5
+[初音未来]tell your world 指弹 by 武士桑.gp5
+[初音未来]tell your world 指弹2.gp5
+[初音未来]true my heart 吉他.gp5
+[初音未来]two faced lovers 双吉他.gp5
+[初音未来]unbalanced girl 吉他.gp5
+[初音未来]world is mine 总谱.gp5
+[初音未来]えれくとりっくえんじぇぅ 总谱.gp5
+[初音未来]かくれんぼ 指弹.gp5
+[初音未来]こっち向いて baby 双吉他.gp5
+[初音未来]こっち向いて baby 总谱.gp5
+[初音未来]こっち向いて baby 贝斯.gp5
+[初音未来]ひねくれ者 吉他.gp5
+[初音未来]ぼくらのレットイットビー(our let it be) 指弹.gp5
+[初音未来]ぽっぴっぽー 吉他.gp5
+[初音未来]ぽっぴっぽー 钢琴.gp5
+[初音未来]みくみくにしてあげる 吉他.gp5
+[初音未来]みくみくにしてあげる 总谱.gp5
+[初音未来]むかしむかしのきょうのぼく 总谱2.gp5
+[初音未来]むかしむかしのきょうのぼく(很久很久以前的昨天的我) 总谱.gp5
+[初音未来]アンハッピーリフレイン 吉他.gp5
+[初音未来]アンハッピーリフレイン 贝斯.gp5
+[初音未来]オレンジ 吉他谱.gp5
+[初音未来]グリグリメガネと月光蟲 总谱.gp5
+[初音未来]サウンド(sound) 总谱.gp5
+[初音未来]サリシノハラ 吉他.gp5
+[初音未来]シュレディンガイガーのこねこ(薛定谔的小猫) 总谱.gp5
+[初音未来]ストリーミングハート 双吉他.gp5
+[初音未来]トリノコシティ 吉他.gp5
+[初音未来]ビフォーアフター 双吉他.gp5
+[初音未来]リリリリ★バーニングナイト 主音.gp5
+[初音未来]ロベリア（lobelia） 总谱.gp5
+[初音未来]ロミオとシンデレラ 吉他.gp5
+[初音未来]ロミオとシンデレラ 吉他2.gp5
+[初音未来]ロミオとシンデレラ(罗密欧和辛德瑞拉) 双吉他.gp5
+[初音未来]ローリンガール(rolling girl) 吉他.gp5
+[初音未来]ローリンガール(rolling girl) 指弹.gp5
+[初音未来]ワールドイズマイン 吉他.gp5
+[初音未来]ワールドイズマイン 总谱.gp5
+[初音未来]世界第一的公主殿下 总谱.gp5
+[初音未来]世界第一的公主殿下 总谱2.gp5
+[初音未来]二息步行 吉他.gp5
+[初音未来]二息步行 总谱.gp5
+[初音未来]六分之一 总谱.gp5
+[初音未来]初めての恋が终わるとき 吉他.gp5
+[初音未来]初めての恋が终わる时 总谱2.gp4
+[初音未来]初めての恋が终わる时(初恋终焉之时) 总谱.gp5
+[初音未来]初音ミクの消失 指弹.pdf
+[初音未来]初音初音全给你 总谱.gp5
+[初音未来]初音未来的消失 总谱.gp5
+[初音未来]千本桜 总谱.gp5
+[初音未来]千本桜 总谱2.gp5
+[初音未来]千本桜 贝斯.gp5
+[初音未来]千本樱 吉他.gp5
+[初音未来]夕日坂 指弹.gp5
+[初音未来]夕阳坂 指弹.gp5
+[初音未来]夜明けと蛍 总谱.gp5
+[初音未来]夜明けと蛍(黎明与萤光) 总谱.gp5
+[初音未来]天ノ弱 双吉他.gp5
+[初音未来]天乐 吉他.gp5
+[初音未来]小夜子 总谱.gp5
+[初音未来]小夜子(acoustic ver) 总谱.gp5
+[初音未来]崩坏世界の歌姬 吉他.gp5
+[初音未来]影踏みエトランゼ 双吉他.gp5
+[初音未来]快乐合成器 吉他.gp5
+[初音未来]恋は戦争 双吉他.gp5
+[初音未来]恋は戦争 总谱.gp5
+[初音未来]恋は戦争 贝斯.gp5
+[初音未来]恋爱勇者 吉他.gp5
+[初音未来]恋爱勇者 总谱.gp5
+[初音未来]恋距離遠愛 吉他.gp5
+[初音未来]想像フォレスト 总谱.gp5
+[初音未来]愛言葉 总谱.gp5
+[初音未来]愛迷エレジー 吉他.gp5
+[初音未来]愛迷エレジー 吉他2.gp5
+[初音未来]是萝莉控真是太好了 吉他贝斯.gp5
+[初音未来]桜のような恋でした 指弹.gp5
+[初音未来]桜ノ雨 总谱.gp5
+[初音未来]桜ノ雨(樱之雨) 指弹.gp5
+[初音未来]歌に形はないけれど 指弹.gp5
+[初音未来]歌に形はないけれど(虽然歌声无形) 指弹.gp5
+[初音未来]深海少女 吉他.gp5
+[初音未来]深海少女 贝斯.gp5
+[初音未来]深海少女 钢琴.ove
+[初音未来]炉心溶解 总谱.gp5
+[初音未来]炉心融解 指弹.gp5
+[初音未来]甩葱歌 总谱.gp5
+[初音未来]甩葱歌 指弹.gp5
+[初音未来]甩葱歌 指弹完美版.gp5
+[初音未来]白い雪のプリンセスは 指弹.gp5
+[初音未来]相恋如樱 指弹.gp5
+[初音未来]离去之原 吉他贝斯.gp5
+[初音未来]离去之原 总谱.gp5
+[初音未来]罗密欧与灰姑娘 总谱.gp5
+[初音未来]裏表ラバーズ 双吉他 by中西.gp5
+[初音未来]里表ラバーズ 总谱.gp5
+[初音未来]雪恋 总谱.gp5
+[初音未来]顔本耽溺ガール(沉溺脸书girl) 双吉他.gp5
+[剑客浪心]heart of sword ～夜明け前～ 双吉他.gp5
+[功夫]功夫ost 总谱.gp5
+[加勒比海盗]he's a pirate 总谱.gp5
+[加勒比海盗]he's a pirate 总谱2.gp5
+[加勒比海盗]he's a pirate 指弹.gp5
+[加勒比海盗]he's a pirate 指弹2.gp5
+[加速世界]chase the world 贝斯.gp5
+[劲乐团]v3 总谱.gp5
+[劲乐团]v3 指弹.gp5
+[劲乐团]劲乐超快感 总谱.gp5
+[劲乐团]幽灵盛典 指弹.gp5
+[劲乐团]幽灵盛典2 总谱.gp5
+[劲乐团]菠菜进行曲 指弹.gp5
+[劲乐团]菠菜进行曲.gp5
+[化(伪)物语]二言目 吉他.gp5
+[化(伪)物语]白金ディスコ 总谱.gp5
+[化(猫)物语(黑)]perfect slumbers(tvsize) 总谱.gp5
+[化物语]ambivalent world 总谱.gp5
+[化物语]sugar sweet nightmare 总谱.gp5
+[化物语]君の知らない物語 总谱2.gp5
+[化物语]君の知らない物語 总谱3.gp5
+[化物语]君の知らない物語 指弹.gp5
+[化物语]君の知らない物语(你不知道的故事) 总谱.gp5
+[化物语]恋爱サ キュレ ション 双吉他.gp5
+[化物语]恋爱サ キュレ ション 吉他.gp5
+[化物语]恋爱サ キュレ ション 指弹.gp5
+[化物语]恋爱サ キュレ ション(恋爱循环) 总谱.gp5
+[化物语]战场原staple stable 指弹.gp5
+[北斗神拳]把爱找回来 总谱.gp5
+[北斗神拳]把爱找回来 总谱2.gp5
+[千与千寻]与你同在 指弹.gp5
+[千与千寻]与你同在 指弹2.gp5
+[千与千寻]幻化成风 总谱.gp5
+[千与千寻]幻化成风 总谱2.gp5
+[千与千寻]幻化成风 指弹.gp5
+[千与千寻]幻化成风 指弹2.gp5
+[千与千寻]永远同在 指弹3.gp5
+[千与千寻]那天的河川 指弹.gp5
+[千与千寻]那天的河川 指弹2.gp5
+[千与千寻]那天的河川 指弹3.gp5
+[南家三姐妹]经验值上升中 总谱.gp5
+[双截龙]双截龙ost 总谱.gp5
+[反叛的鲁鲁修]colors 总谱.gp5
+[反叛的鲁鲁修]flow world end 总谱.gp5
+[反叛的鲁鲁修]innocent days 指弹.gp5
+[变形金刚]the transformers 总谱.gp5
+[变态王子与不笑猫]夜明け 指弹.gp5
+[变态王子和不笑猫]fantastic future 总谱.gp5
+[口袋妖怪]frlg battle vs wild pokemon theme 总谱.gp5
+[口袋妖怪]gym leader battle 总谱.gp5
+[口袋妖怪]ready go! 总谱.gp5
+[口袋妖怪]喵喵之歌 双吉他.gp5
+[口袋妖怪]四天王 指弹.gp5
+[口袋妖怪]我得到口袋妖怪了！ 总谱.gp5
+[口袋妖怪]我得到口袋妖怪了！ 总谱2.gp5
+[只有神知道的世界]god only knows -secrets of the goddess 吉他.gp5
+[合金装备]skateboarding 总谱.gp5
+[吊带袜天使]d city rock 总谱.gp4
+[君が望む永遠]rumbling hearts 指弹.gp5
+[吸血鬼骑士]ふたつの鼓动と赤い罪 指弹.gp5
+[命运石之门]believe me(in ab) 指弹.gp5
+[命运石之门]gate of steiner 指弹.gp5
+[命运石之门]hacking to the gate 吉他.gp5
+[命运石之门]hacking to the gate 总谱.gp5
+[命运石之门]いつもこの場所で(一直在这个地方) 吉他.gp5
+[咲]咲op 指弹.gp5
+[哆啦a梦]ひまわりの约束(向日葵的约定) 指弹.gp5
+[哆啦a梦]ひまわりの约束(向日葵的约定) 指弹.gpx
+[哈尔的移动城堡]世界的约定 指弹by南泽大介.gp5
+[哈尔的移动城堡]人生的旋转木马 指弹.gp5
+[哈尔的移动城堡]人生的旋转木马 指弹2.gp5
+[哈尔的移动城堡]苏菲的城堡 指弹.gp5
+[喜羊羊与灰太狼]喜羊羊与灰太狼主题曲 指弹.gp5
+[嗜血狂袭]strike the blood 总谱.gp5
+[噬魂师]papermoon 总谱.gp5
+[四月是你的谎言]アゲイン(again) 总谱.gp5
+[四月是你的谎言]オレンジ(orange) 双吉他.gp5
+[四月是你的谎言]七色シンフォニー(七色交响曲) 双吉他.gp5
+[四月是你的谎言]七色シンフォニー(七色交响曲) 总谱.gp5
+[四月是你的谎言]光るなら 总谱2.gp5
+[四月是你的谎言]光るなら 指弹.gp5
+[四月是你的谎言]光るなら(若能绽放光芒) 总谱.gp5
+[四驱兄弟]get the world 总谱.gp5
+[四驱兄弟]get the world 总谱2.gp5
+[圣斗士]endless corridor 总谱.gp5
+[圣斗士]原谅我 指弹.gp5
+[圣斗士]天马座的幻想 总谱.gp5
+[圣斗士]天马座的幻想 指弹.gp5
+[圣斗士]天马座的幻想指弹.gp5
+[圣斗士]真红的少年 指弹.gp5
+[地下城与勇士]pk场背景音乐 总谱.gp5
+[地下城与勇士]熔岩窟 总谱.gp5
+[地下城与勇士]风一样的勇士 指弹.gp5
+[地狱少女]梭巡 指弹.gp5
+[地狱少女]蓝染 指弹.gp5
+[地狱少女]蓝染 指弹2.gp5
+[地狱少女]蓝染 钢琴.gp5
+[地狱少女]蓝染 钢琴2.gp5
+[地狱少女]逆さまの蝶(逆蝶) 总谱.gp5
+[地狱少女]逆蝶 伴奏.gp5
+[地狱少女]逆蝶 指弹.gp5
+[地狱训练摇滚吉他2]第1章 总谱.gp5
+[地狱训练摇滚吉他3]全 总谱.gp5
+[地狱训练摇滚吉他]地狱の予定日 吉他.gp5
+[地狱训练摇滚吉他]地狱の公开仪式(门德尔松婚礼进行曲) 吉他.gp5
+[地狱训练摇滚吉他]地狱の婚姻届 贝斯.gp5
+[地狱训练摇滚吉他]地狱の林檎(威廉退尔序曲) 吉他.gp5
+[地狱训练摇滚吉他]地狱の白鸟湖 吉他.gp5
+[地狱训练摇滚吉他]地狱の轮回 吉他.gp5
+[地狱训练摇滚吉他]地狱训练第三册 吉他.gp5
+[地狱训练摇滚吉他]地藏より愛を込めて 吉他.gp5
+[地狱训练摇滚吉他]第1章 总谱.gp5
+[地狱训练摇滚吉他]第2章 总谱.gp5
+[地狱训练摇滚吉他]第3章 总谱.gp5
+[地狱训练摇滚吉他]第4章 总谱.gp5
+[地狱训练摇滚吉他]给地狱一点爱 总谱.gp5
+[地狱训练摇滚吉他]给地狱一点爱 总谱2.gp5
+[地狱训练摇滚吉他]给时代一点爱 吉他.gp5
+[地狱训练摇滚吉他]给老师一点爱 吉他.gp5
+[地狱训练摇滚吉他]给起点一点爱 吉他.gp5
+[坦克大战]坦克大战开场曲 指弹.gp5
+[塞尔达传说]dragon roost island 指弹.gp5
+[塞尔达传说]ganon battle 总谱.gp5
+[塞尔达传说]kakariko village(卡卡利科村) 总谱.gp5
+[塞尔达传说]main theme 总谱.gp5
+[塞尔达传说]midna's theme 总谱.gp5
+[塞尔达传说]water medley 总谱.gp5
+[境界的彼方]daisy 贝斯.gp5
+[境界的彼方]境界的彼方 指弹.gp5
+[境界线上的地平线]悲しみは誰の願いでもない(悲伤不是任何人的祈愿) 吉他solo.gp5
+[壳之少女]holiday 指弹.gp5
+[夏洛特]楽園まで 双吉他.gp5
+[夏目友人帐]いとはかなし 指弹.gp5
+[夏目友人帐]いとはかなし 指弹2.gp5
+[夏目友人帐]きみが呼ぶなまえ～夢のつづき～ 指弹.gp5
+[夏目友人帐]一斉の声(一齐之声) 总谱.gp5
+[夏目友人帐]夏夕空 指弹.gp5
+[夏目友人帐]夏夕空 指弹.gpx
+[夏目友人帐]夏夕空 指弹2.gp5
+[夏目友人帐]春を知らせるもの 指弹.gp5
+[多啦a梦]多啦a梦 指弹.gp5
+[多啦a梦]多啦a梦.gp5
+[大力水手]大力水手主题曲 指弹.gp5
+[大富翁]奇幻的城市 总谱.gp5
+[天使之翼]天使之翼主题曲 总谱.gp5
+[天使怪盗]白夜 总谱.gp5
+[天元突破]空色デイズ 总谱.gp5
+[天空之城]拉普达 指弹.gp5
+[天空之城]月光的云海 指弹.gp5
+[天降之物]fallen down 钢琴.gp5
+[天降之物]ring my bell 钢琴.gp5
+[天降之物]帰るから 指弹.gp5
+[天降之物]空の女王～ウラヌス_システム 总谱.gp5
+[奈亚子]太陽曰く燃えよカオス 总谱.gp5
+[奈亚子]恋は渾沌の隷也 吉他.gp5
+[奥特曼]奇迹再现 总谱.gp5
+[奥特曼]杰克插曲 总谱.gp5
+[奥特曼]英雄 总谱.gp5
+[奥特曼]英雄 总谱2.gp5
+[女友青梅竹马修罗场]girlish lover 贝斯.gp5
+[女友青梅竹马修罗场]wonder tale 贝斯.gp5
+[女子落语]お后がよろしくって...よ!(接下来就拜托了!) 总谱.gp5
+[女子落语]笑顔百景 吉他.gp5
+[女生万岁]ここにいるから…(因为在这里存在着) 总谱.gp5
+[女生爱女生]坚定少女的心 指弹.gp5
+[女生爱女生]坚定少女的心 指弹2.gp5
+[女神异闻录]reach out to the truth 总谱.gp5
+[好想告诉你]pure white story 指弹.gp5
+[好想告诉你]pure white story 指弹2.gp5
+[妄想学生会]花咲く☆最強レジェンドdays 总谱(tg文件使用tuxguitar打开).tg
+[妖精的尾巴]dragon force theme 总谱.gp5
+[妖精的尾巴]erza tai eerza 总谱.gp5
+[妖精的尾巴]fairy tail 总谱.gp5
+[妖精的尾巴]gunyuu aiutsu 总谱.gp5
+[妖精的尾巴]happys theme 总谱.gp5
+[妖精的尾巴]holy shine 总谱.gp5
+[妖精的尾巴]main theme 2014 总谱.gp5
+[妖精的尾巴]salamander 总谱.gp5
+[妖精的尾巴]strike back 总谱.gp5
+[妖精的尾巴]the theme of ersa 总谱.gp5
+[妖精的尾巴]theme 总谱.gp5
+[妖精的尾巴]traveler of the magic borders 总谱.gp5
+[妖精的尾巴]キミがくれたもの(你给我的东西) 指弹.gp5
+[妖精的尾巴]妖精の辉き(妖精的光辉) 总谱.gp5
+[妖精的尾巴]最強最後の死闘(最强最后的死斗) 总谱.gp5
+[妖精的尾巴]連合軍、集結! 总谱.gp5
+[妖精的尾巴]鉄竜 -くろがね- 总谱.gp5
+[妖精的旋律]be your girl 总谱.gp5
+[妖精的旋律]lilium 指弹.gp5
+[妖精的旋律]lilium 指弹2.gp5
+[妖精的旋律]lilium 指弹3.gp5
+[妖精的旋律]lilium 指弹修改版.gp5
+[学园孤岛]ふ?れ?ん?ど?し?た?い(想要成为好朋友) 指弹.gp5
+[学园救援团]funny bunny 总谱.gp4
+[学园默示录]highschool of the dead 总谱.gp5
+[学园默示录]君と太阳が死んだ日 总谱.gp5
+[学园默示录]君と太阳が死んだ日 总谱2.gp5
+[学园默示录]君と太阳が死んだ日 指弹.gp5
+[实况足球]胜利 总谱.gp5
+[家庭教师reborn]88 总谱.gp5
+[家庭教师reborn]boys &girls 总谱.gp5
+[寂静岭]alone in the town 总谱.gp4
+[寂静岭]angel's thanatos 总谱.gp4
+[寂静岭]cover 总谱.gp5
+[寂静岭]cover 总谱2.gp5
+[寂静岭]cover 总谱3.gp4
+[寂静岭]cradel of forest 总谱.gp4
+[寂静岭]end of small sanctuary 总谱.gp4
+[寂静岭]homecoming 总谱.gp5
+[寂静岭]i want love 总谱.gp4
+[寂静岭]killing time 总谱.gp4
+[寂静岭]letter 总谱.gp5
+[寂静岭]love psalm 总谱.gp4
+[寂静岭]music box 总谱.gp4
+[寂静岭]nightmarish waltz 总谱.gp4
+[寂静岭]not tomorrow 总谱.gp5
+[寂静岭]not tomorrow 总谱2.gp4
+[寂静岭]opening theme 总谱.gp5
+[寂静岭]overdose delusion 总谱.gp4
+[寂静岭]please love me once more 总谱.gp4
+[寂静岭]promise reprise 总谱.gp4
+[寂静岭]promise reprise 总谱2.gp5
+[寂静岭]promise reprise 指弹.gp5
+[寂静岭]promise 总谱.gp5
+[寂静岭]promise 总谱2.gp5
+[寂静岭]promise 指弹.gp5
+[寂静岭]promise 独奏.gp5
+[寂静岭]room of angel 总谱.gp5
+[寂静岭]she 总谱.gp5
+[寂静岭]she 指弹.gp4
+[寂静岭]shot down in flames 总谱.gp5
+[寂静岭]silent hill 总谱.gp3
+[寂静岭]silent scream 总谱.gp5
+[寂静岭]strike of the sword 总谱.gp5
+[寂静岭]tears of 指弹.gp5
+[寂静岭]tender sugar 总谱.gp5
+[寂静岭]theme of laura reprise 总谱.gp4
+[寂静岭]theme of laura reprise 总谱2.gp5
+[寂静岭]theme of laura 总谱.gp4
+[寂静岭]theme of laura 总谱2.gp4
+[寂静岭]theme of laura 总谱3.gp4
+[寂静岭]theme of laura 总谱4.gp4
+[寂静岭]theme of laura 总谱5.gp5
+[寂静岭]theme of laura 总谱6.gp3
+[寂静岭]true 总谱.gp5
+[寂静岭]waiting for you 总谱.gp4
+[寂静岭]welcome to silent hill 总谱.gp5
+[寂静岭]you're not here 总谱.gp5
+[寂静岭]you're not here 总谱2.gp4
+[寂静岭]your rain 总谱.gp4
+[寄生兽]it's the right time 钢琴.gp5
+[寄生兽]let me hear 双吉他.gp5
+[寄生兽]let me here 总谱 tv.size.gp5
+[寄生兽]let me here 总谱2.gp5
+[寒蝉鸣泣之时]you 指弹.gp5
+[寒蝉鸣泣之时]叹息之森 指弹.gp5
+[小丸子]手舞足蹈 指弹.gp5
+[少女革命ウテナ]绝对命运默示录 总谱.gp5
+[屋上的百合灵]girl's spirit 总谱.gp5
+[屋上的百合灵]my territory 总谱.gp5
+[山田与七个魔女]くちづけdiamond 贝斯.gp5
+[帝国时代]op 总谱.gp5
+[幻界战线]シュガーソングとビターステップ(sugar song to bitter step) 总谱.gp5
+[幽灵公主]アシタカせっ記 指弹.gp5
+[幽灵公主]幽灵公主 总谱.gp5
+[幽灵公主]幽灵公主 指弹.gp5
+[强袭魔女2]over sky 总谱.gp5
+[强袭魔女2]笑颜の魔法 总谱.gp5
+[强袭魔女]bookmark a head 总谱.gp5
+[强袭魔女]private wing 总谱.gp5
+[强袭魔女]約束の空へ ～私のいた場所～总谱.gp5
+[彩云国物语]はじまりの风 (万物初始之风) 钢琴.ove
+[彩云国物语]最棒的单相思 指弹.gp5
+[影子传说]op 总谱.gp5
+[影子传说]影子传说ost 总谱.gp5
+[心理测量者]abnormalize 吉他贝斯.gp5
+[心理测量者]all alone with you 总谱.gp5
+[心理测量者]名前のない怪物 吉他&贝斯.gp5
+[心跳回忆]宛若星期天的雨 总谱.gp5
+[忍者神龟]op 总谱.gp5
+[忍者神龟]忍者神龟ost 总谱.gp5
+[忍者龙剑传]overdrive 总谱.gp5
+[忍者龙剑传]雪地 总谱.gp5
+[忍者龙剑传]鲜烈のリュウ 总谱.gp5
+[怪物猎人]怪物猎人独奏.gp5
+[恋爱随意链接]salvage 吉他.gp5
+[恶魔之谜]concentration(武智乙哉角色歌) 总谱.gp5
+[恶魔之谜]どうってことないsympathy(寒河江春纪角色歌) 总谱.gp5
+[恶魔之谜]パラドクス(东兔角角色歌) 总谱.gp5
+[恶魔之谜]創傷イノセンス 双吉他.gp5
+[恶魔之谜]創傷イノセンス 总谱.gp5
+[恶魔城]blood tears 总谱.gp5
+[恶魔城]castlevania 64 theme 总谱.gp5
+[恶魔城]castlevania 总谱.gp5
+[恶魔城]day 总谱.gp5
+[恶魔城]heart of fire 晓月圆舞曲总谱.gp5
+[恶魔城]lost painting 指弹.gp5
+[恶魔城]lost painting.gp5
+[恶魔城]stage3 总谱.gp5
+[恶魔城]stage3 总谱2.gp5
+[恶魔城]stage5 总谱.gp5
+[恶魔城]vampire killer 总谱.gp5
+[恶魔城]利希达·贝尔蒙多 月下夜想曲总谱.gp5
+[恶魔城]地下水脉 月下夜想曲总谱.gp5
+[恶魔城]恶魔城入口 月下夜想曲总谱.gp5
+[恶魔城]恶魔城最上层 月之轮回总谱.gp5
+[恶魔城]时针塔 月下夜想曲总谱.gp5
+[恶魔城]月之轮回主题曲 总谱.gp5
+[恶魔城]炼金研究所 月下夜想曲总谱.gp5
+[恶魔城]礼拜堂 月下夜想曲总谱.gp5
+[恶魔城]藏书室 月下夜想曲总谱.gp5
+[悠久之翼]euphoric field 总谱.gp5
+[悠哉日常大王]なないろびより 贝斯.tg
+[惊爆游戏]no pain, no game 吉他.gp5
+[我为歌狂]我的舞台 指弹.gp5
+[我为歌狂]无所不能 总谱.gp5
+[我为歌狂]有梦好甜蜜 指弹.gp5
+[我为歌狂]有梦好甜蜜 指弹2.gp3
+[我爱奇诺奥]tomorrow‘s way 总谱.gp5
+[我的青春恋爱物语果然有问题]hello alone 双吉他.gp5
+[我的青春恋爱物语果然有问题]hello alone-yui ballade 指弹.gp5
+[我的青春恋爱物语果然有问题]ユキトキ(雪乃心动) 吉他贝斯.gp5
+[扑杀天使]夕日の颜 指弹.gp5
+[打工吧魔王大人]zero!! 吉他贝斯.gp5
+[打工吧魔王大人]月花 吉他贝斯.gp5
+[拳皇97]op 总谱.gp4
+[拳皇99]op 指弹.gp4
+[拳皇]game over 总谱.gp3
+[摇曳百合]100%ちゅ～学生 吉他.gp5
+[摇曳百合]いぇす！ゆゆゆ☆ゆるゆり 吉他.gp5
+[散华礼弥]绘空事 双吉他.gp5
+[散华礼弥]绘空事(tvsize) 总谱.gp5
+[数码宝贝2]break up 总谱.gp5
+[数码宝贝]brave heart 总谱.gp5
+[数码宝贝]butter-fly solo.gp5
+[数码宝贝]butterfly 官方总谱.gp5
+[数码宝贝]butterfly 总谱2.gp5
+[数码宝贝]butterfly 指弹.gp5
+[数码宝贝]butterfly 指弹2.gp5
+[数码宝贝]i wish 总谱.gp5
+[数码宝贝]i wish 总谱2.gp5
+[数码宝贝]keep on full 总谱.gp5
+[数码宝贝]the biggest dreamer 总谱.gp5
+[数码宝贝]the biggest dreamer 总谱2.gp5
+[数码宝贝]光芒与希望 指弹.gp5
+[斩!赤红之瞳]liar mask 指弹.gp5
+[斩!赤红之瞳]skyreach 吉他.gp5
+[斩!赤红之瞳]skyreach 总谱.gp5
+[斩!赤红之瞳]月灯り 指弹.gp5
+[新妹魔王的契约者]blade of hope 吉他.gp5
+[旋风管家]get my way 伴奏.gp5
+[旋风管家]本日、満开ワタシ色！ 吉他.gp5
+[无双大蛇]limpid luster 指弹.gp5
+[无头骑士异闻录]コンプリケイション 指弹.gp5
+[无头骑士异闻录]复杂人生 总谱.gp5
+[无头骑士异闻录]裏切りの夕焼け 总谱2.gp5
+[无头骑士异闻录]裏切りの夕焼け(背叛的晚霞) 总谱.gp5
+[无赖勇者的鬼畜美学]brilliant voice 吉他solo.gp5
+[无赖勇者的鬼畜美学]愛のせいで眠れない(因为爱而无法入眠) 吉他solo.gp5
+[日和]啦啦啦啦 吉他.gp5
+[日在校园]let me love you 总谱.gp5
+[日在校园]悲しみの向こうへ(向着悲伤的彼方) 指弹.gp5
+[星之卡比]星之卡比bgm 指弹.gp5
+[暗黑破坏神]the preacher 总谱.gp5
+[暗黑破坏神]town theme 总谱.gp5
+[最强会长黑神]守護心paradox 吉他.gp5
+[最终兵器彼女]地球の果て(大地的尽头) 总谱.gp5
+[最终幻想]breezy 指弹.gp5
+[最终幻想]dance 总谱.gp5
+[最终幻想]eyes on me 总谱.gp5
+[最终幻想]eyes on me 指弹 by南泽大介.gp5
+[最终幻想]eyes on me 指弹.gp5
+[最终幻想]eyes on me 指弹2.gp5
+[最终幻想]loss of me 指弹.gp5
+[最终幻想]melodies of life 指弹.gp5
+[最终幻想]melodies of life 指弹2.gp5
+[最终幻想]ost10 指弹.gp4
+[最终幻想]to zanarkand 总谱.gp5
+[最终幻想]to zanarkand 总谱2.gp5
+[最终幻想]to zanarkand 指弹2.gp5
+[最终幻想]to zanarkand指弹.gp5
+[最终幻想]vamo'alla flamenco lonlonjp 指弹.gp5
+[最终幻想]久远的光波记忆 指弹.gp5
+[最终幻想]另一个世界 总谱.gp5
+[最终幻想]斯毕拉的视野 指弹.gp5
+[最终幻想]最终幻想经典旋律 指弹.gp5
+[最终幻想]最终幻想胜利 总谱.gp5
+[最终幻想]最终幻想胜利 指弹.gp5
+[最终幻想]泰达的旋律 指弹.gp5
+[最终幻想]片翼的天使 总谱.gp5
+[最终幻想]素敌だね 完整版.gp5
+[最终幻想]素敌だね 指弹.gp5
+[最终幻想]素敌だね 指弹2.gp5
+[最终幻想]素敌だね 指弹完美版.gp5
+[最终幻想]素敌だね(真棒!) 总谱.gp5
+[最终幻想]经典旋律 指弹.gp4
+[最终幻想]自由的代价 总谱.gp5
+[最终幻想]陆行鸟 指弹by南泽大介.gp5
+[月刊少女野崎君]君じゃなきゃダメみたい(似乎不是你就不行的样子) 指弹.gp5
+[未来日记]dead end 吉他.gp5
+[未来日记]空想メソロギヰ 吉他.gp5
+[未确认进行式]困惑→食谱 吉他.gp5
+[未闻花名]secret base ～君がくれたもの 指弹.gp5
+[未闻花名]secret base ～君がくれたもの～ 总谱.gp5
+[未闻花名]secret base ～君がくれたもの～ 总谱2.gp5
+[未闻花名]青い桀 总谱.gp5
+[机巧少女]anicca 双吉他.gp5
+[机巧少女]回レ!雪月花 爵士版总谱.gp5
+[来自风平浪静的明天]ebb and flow ray 指弹.gp5
+[来自风平浪静的明天]fonte 总谱.gp5
+[松鼠大战]松鼠大战ost 总谱.gp5
+[极品飞车]the only 总谱.gp4
+[染红的街道]茜色hometown 总谱.gp5
+[柯南]don't wanna lie 总谱.gp5
+[柯南]dreamxdream 总谱.gp5
+[柯南]one 总谱.gp5
+[柯南]secret of my heart 总谱.gp5
+[柯南]step by step 总谱.gp5
+[柯南]thank you for everything 总谱.gp5
+[柯南]time after time～花舞う街で～ 指弹.gp5
+[柯南]time after time～花舞う街で～ 指弹2.gp5
+[柯南]オセンチな歩美(伤感的步美) 指弹.gp5
+[柯南]你在我身边 总谱.gp5
+[柯南]你在我身边 指弹.gp5
+[柯南]你在我身边 指弹2.gp5
+[柯南]你在我身边 钢琴.gp5
+[柯南]只要有你 指弹.gp5
+[柯南]哀のテーマb(哀的决意b) 指弹.gp5
+[柯南]谜 总谱.gp5
+[柯南]運命のルーレット廻して(转动命运之轮) 总谱.gp5
+[校园迷糊大王]二人は忘れちゃう 总谱.gp5
+[校园迷糊大王]夕顔 总谱.gp5
+[格斗之王]blue mary 总谱.gp5
+[格斗之王]kof97 总谱.gp5
+[格斗之王]kyo 总谱.gp5
+[格斗之王]kyo 指弹.gp5
+[棋魂]get over 指弹.gp5
+[植物大战僵尸]bowling 总谱.gp5
+[植物大战僵尸]cerebrawl 指弹.gp5
+[植物大战僵尸]dancing zombie 合奏.gp5
+[植物大战僵尸]day 总谱.gp5
+[植物大战僵尸]dr.zomboss 总谱.gp5
+[植物大战僵尸]fog 总谱.gp5
+[植物大战僵尸]grasswalk 总谱.gp5
+[植物大战僵尸]grasswalk 指弹.gp5
+[植物大战僵尸]grasswalk 指弹2.gp5
+[植物大战僵尸]graze the roof 总谱.gp5
+[植物大战僵尸]graze the roof 指弹.gp5
+[植物大战僵尸]graze the roof 指弹2.gp5
+[植物大战僵尸]jack-in-the-box zombie 指弹.gp5
+[植物大战僵尸]loading 总谱.gp5
+[植物大战僵尸]look at the sky 指弹.gp5
+[植物大战僵尸]night 总谱.gp5
+[植物大战僵尸]pool 总谱.gp5
+[植物大战僵尸]preparing 总谱.gp5
+[植物大战僵尸]roof 总谱.gp5
+[植物大战僵尸]the floating imperial city 指弹.gp5
+[植物大战僵尸]the floating imperial city.gp5
+[植物大战僵尸]vasebreaker 总谱.gp5
+[植物大战僵尸]vasebreaker.gp5
+[植物大战僵尸]win 总谱.gp5
+[植物大战僵尸]win.gp5
+[植物大战僵尸]zen garden 总谱.gp5
+[植物大战僵尸]zen garden.gp5
+[植物大战僵尸]植物保龄球 指弹.gp5
+[樱兰高校男公关部]sakura kiss 总谱.gp5
+[樱花大战]激!帝国华击团 总谱.gp5
+[樱花大战]激!帝国华击团 总谱2.gp5
+[樱花大战]激!帝国华击团 总谱3.gp5
+[樱花庄的宠物女孩]prime number 君と出会える日 总谱 by yunyun.gp5
+[欢迎加入nhk]もどかしい世界の上で(在令人沮丧的世界) 贝斯.gp5
+[武士弗拉明戈]just one life 总谱.gp5
+[死亡笔记]death note 总谱.gp5
+[死亡笔记]kira 总谱.gp5
+[死亡笔记]l 总谱.gp5
+[死亡笔记]the world 总谱.gp5
+[死亡笔记]夜神月 总谱.gp5
+[死亡笔记]弥海砂 总谱.gp5
+[死亡笔记]绝望ビリー 总谱.gp5
+[死囚乐园]one reason 总谱.gp5
+[死神here to stay 指弹.gp5
+[死神]d-tecnolife 总谱.gp5
+[死神]hanabi(花火) 指弹.gp5
+[死神]harukaze(春风) 总谱.gp5
+[死神]last moment 总谱.gp5
+[死神]life is like a boat 总谱.gp5
+[死神]life is like a boat 指弹.gp5
+[死神]life is like a boat 指弹2.gp5
+[死神]mad surfer 总谱.gp5
+[死神]rolling star 总谱.gp5
+[死神]rolling star 总谱2.gp5
+[死神]sky chord 指弹.gp5
+[死神]tonight tonight tonight 总谱.gp5
+[死神]彗星 总谱.gp5
+[水星领航员]rainbow 指弹.gp5
+[水果篮子]for fruits basket 指弹.gp5
+[水樹奈々]innocent starter 总谱.gp3
+[沙罗曼蛇]bgm 总谱.gp5
+[沙罗曼蛇]沙罗曼蛇ost 总谱.gp5
+[沙耶之歌]ガラスのくつ 双吉他.gp5
+[泡泡堂]小区 总谱.gp5
+[泡泡堂]小区 指弹.gp5
+[泡泡堂]海盗船 指弹.gp5
+[洛克人3]dr wilys castle stage(3-4) 总谱.gp5
+[洛天依]权御天下 总谱.gp5
+[浪客剑心]heart of sword 总谱.gp5
+[浪客剑心]そばかす 指弹.gp5
+[浪漫满屋]命运 指弹.gp5
+[海绵宝宝]片尾曲 指弹.gp5
+[海贼王]dear friends 钢琴.ove
+[海贼王]die legende 总谱.gp5
+[海贼王]gazette akai 总谱.gp5
+[海贼王]memories 总谱.gp5
+[海贼王]memories 总谱2.gp5
+[海贼王]one day 总谱.gp5
+[海贼王]one day 总谱2.gp5
+[海贼王]one day 总谱3.gp5
+[海贼王]run！run！run！ 总谱.gp5
+[海贼王]run！run！run！ 总谱2.gp4
+[海贼王]宾克斯的美酒 总谱.gp5
+[海贼王]宾克斯的美酒 指弹.gp5
+[海贼王]朝着光前进吧 lead-guitar.pdf
+[海贼王]朝着光前进吧 vocals.pdf
+[海贼王]神的随波逐流 吉他.gp5
+[深夜食堂]思ひで 指弹.gp5
+[混沌军势]混沌军势ost 总谱.gp5
+[游戏王]あの日の午后 总谱.gp5
+[滨崎步]evolution 总谱.gp5
+[滨崎步]m 总谱.gp5
+[滨崎步]seasons 总谱.gtp
+[滨崎步]trauma 总谱.gtp
+[漆黑的子弹]black bullet 总谱tv.size.gp5
+[漆黑的子弹]トコハナ 吉他贝斯.gp5
+[漫画家与助手]spica 指弹.gp5
+[潘多拉之心]reminisce 指弹.gp5
+[濑户的花嫁]らせん 吉他.gp5
+[灌篮高手]my friend 总谱.gp5
+[灌篮高手]只注视着你 总谱.gp5
+[灌篮高手]好想大声说爱你 卢家宏木吉他版.gp5
+[灌篮高手]好想大声说爱你 总谱.gp5
+[灌篮高手]好想大声说爱你 指弹by卢家宏.gp5
+[灌篮高手]捕捉闪耀的瞬间 总谱.gp5
+[灌篮高手]直到世界的尽头 怀念版.gp5
+[灌篮高手]直到世界的尽头 总谱.gp5
+[灌篮高手]直到世界的尽头 总谱2.gp5
+[灌篮高手]直到世界的尽头 指弹.gp5
+[灌篮高手]直到世界的尽头指弹.gp5
+[火影]alone 总谱.gp5
+[火影]alone 指弹.gp5
+[火影]confrontment 总谱.gp4
+[火影]daylight of konoha 总谱.gp4
+[火影]evening 总谱.gp4
+[火影]evil 总谱.gp4
+[火影]go !!! 总谱.gp5
+[火影]go go go 总谱.gp5
+[火影]happy end 总谱.gp4
+[火影]haruka kanata 总谱.gp5
+[火影]hero's come back 总谱.gp5
+[火影]i said that's enough 总谱.gp4
+[火影]it's the training 总谱.gp4
+[火影]konoha peace(和平的木叶) 指弹.gp5
+[火影]konohamaru's theme 总谱.gp4
+[火影]loneliness 总谱.gp4
+[火影]long kiss good bye 总谱.gp5
+[火影]morning 总谱.gp5
+[火影]naruto main theme 总谱.gp4
+[火影]naruto's daily life 总谱.gp4
+[火影]need to be strong 总谱.gp5
+[火影]oh student and teach affection 总谱.gp5
+[火影]princess fuun! show yourself 总谱.gp4
+[火影]princess fuun's big adventure 总谱.gp4
+[火影]sadness and sorrow 总谱.gp5
+[火影]sadness and sorrow 指弹.gp5
+[火影]sadness and sorrow 指弹2.gp5
+[火影]sasuke destiny 总谱.gp4
+[火影]sexiness 总谱.gp4
+[火影]strong and strike 总谱.gp4
+[火影]survival examination 总谱.gp4
+[火影]the raising fighting spirit 总谱.gp5
+[火影]wind 总谱.gp5
+[火影]yukie fujikaze 总谱.gp4
+[火影]さよならメモリー(再见回忆) 总谱.gp5
+[火影]ブルーバード(青鸟) 总谱.gp5
+[火影]ラヴァーズ(lovers) 吉他.gp5
+[火影]三代火影的葬礼 总谱.gp5
+[火影]三代火影的葬礼 指弹.gp5
+[火影]任务完成 总谱.gp5
+[火影]佐助 总谱.gp5
+[火影]可爱的表演 总谱.gp5
+[火影]复仇者 总谱.gp5
+[火影]大蛇丸 总谱.gp5
+[火影]孤独 总谱.gp5
+[火影]小樱 总谱.gp4
+[火影]形势危急 总谱.gp5
+[火影]恶魔 总谱.gp5
+[火影]战斗 总谱.gp5
+[火影]捣蛋 总谱.gp5
+[火影]木叶的早晨 总谱.gp5
+[火影]李洛克主题曲 总谱.gp5
+[火影]李洛克的青春 总谱.gp5
+[火影]燃烧吧 总谱.gp5
+[火影]猿飞 总谱.gp5
+[火影]白映 双吉他.gp5
+[火影]红炎 总谱.gp5
+[火影]美好的结局 总谱.gp5
+[火影]萤之光 吉他.gp5
+[火影]这就是我的忍道 总谱.gp5
+[火影]遥远的彼方 总谱.gp5
+[火影]遥远的彼方 指弹.gp5
+[火影]释放吧 总谱.gp5
+[火影]雏田和宁次 总谱.gp5
+[火影]雏田对战宁次 总谱.gp4
+[火影]雪姬忍法帖 总谱.gp5
+[灼眼的夏娜]joint 总谱.gp5
+[灼眼的夏娜]light my fire 总谱.gp5
+[灼眼的夏娜]绯色之空 伴奏.gp5
+[灼眼的夏娜]绯色之空 总谱.gp5
+[灼眼的夏娜]绯色之空 指弹.gp5
+[灼眼的夏娜]赤い涙 总谱.gp5
+[热血传奇]背景音乐 总谱.gp4
+[热血物语]热血物语ost 总谱.gp5
+[煌煌舞台]kirakira blues 吉他.gp5
+[爱杀宝贝]ふたりのきもちのほんとのひみつ 总谱.gp5
+[犬夜叉]change the world 总谱.gp5
+[犬夜叉]grip 总谱.gp5
+[犬夜叉]my will 总谱.gp5
+[犬夜叉]命运与恋慕之心 指弹.gp5
+[犬夜叉]深い森 总谱.gp5
+[犬夜叉]犬夜叉 总谱.gp5
+[犬夜叉]真実の诗 总谱.gp5
+[犬夜叉]穿越时空的思念 总谱.gp5
+[犬夜叉四魂之谜]charge into the battle 总谱.gp5
+[犬夜叉四魂之谜]cherry blossom mirage 总谱.gp5
+[犬夜叉四魂之谜]journey 总谱.gp5
+[狂欢节]偏愛の輪舞曲 贝斯.gp5
+[狮子王]今夜爱无限 总谱.gp5
+[狼与辛香料]旅的途中 指弹2.gp5
+[狼与香辛料]旅の途中 总谱.gp5
+[狼与香辛料]旅の途中 指弹.gp5
+[猎人]魂魄之挽歌c调 指弹.gp5
+[猎人]魂魄之挽歌g调 指弹.gp5
+[玩伴猫耳娘]wonderfulな世界 总谱.gp5
+[现音研]坛曲try to fly 总谱.gp5
+[生化危机3]结尾曲 总谱.gp5
+[生化危机] guilty 总谱.gp5
+[生化危机]生化危机3结尾曲 总谱 2.gp5
+[生化危机]生化危机3结尾曲 总谱.gp5
+[电波女与青春男]os-宇宙人 总谱.gp5
+[男子高中生的日常]shiny tale 贝斯.gp5
+[男子高中生的日常]文学少女 指弹.gp5
+[疯狂坦克]op 总谱.gp4
+[白色相簿2]after all~缀る想い(拼写思念)~ instrumental.gp5
+[白色相簿2]answer 总谱.gp5
+[白色相簿2]boy meets girl and girl 总谱.gp5
+[白色相簿2]closing '13 (tv version) 总谱.gp5
+[白色相簿2]closing 双吉他.gp5
+[白色相簿2]closing 总谱.gp5
+[白色相簿2]cloture 总谱.gp5
+[白色相簿2]dear friends (tv version) 总谱.gp5
+[白色相簿2]dear friends 总谱.gp5
+[白色相簿2]extended winter 总谱.gp5
+[白色相簿2]fill you 总谱.gp5
+[白色相簿2]honesty 总谱.gp5
+[白色相簿2]powder snow ~kazusa~ by wuyixiao.ove
+[白色相簿2]powder snow 指弹.gp5
+[白色相簿2]powder snow 钢琴.gp5
+[白色相簿2]ready 总谱.gp5
+[白色相簿2]slapstick street 总谱.gp5
+[白色相簿2]snowfalls 钢琴.gp5
+[白色相簿2]sunshine day 钢琴.ove
+[白色相簿2]twinkle snow 总谱.gp5
+[白色相簿2]twinkle snow 钢琴四重奏.gp5
+[白色相簿2]white album guitar & piano ver.gp5
+[白色相簿2]white album guitar ver.gp5
+[白色相簿2]white album piano ver.gp5
+[白色相簿2]winter vacation 总谱.gp5
+[白色相簿2]あの頃のように(像那刻一样) 钢琴.gp5
+[白色相簿2]いつか见た景色(有时可见的风景) 总谱.gp5
+[白色相簿2]さよならのこと(再见这件事) 总谱.gp5
+[白色相簿2]ためいき(叹息) 总谱.gp5
+[白色相簿2]イルミネ-ッョソ·タウソ 总谱.gp5
+[白色相簿2]キャンドルライト(烛光) 总谱.gp5
+[白色相簿2]コモレビ 总谱.gp5
+[白色相簿2]一途な心 总谱.gp5
+[白色相簿2]優しい嘘 钢琴.gp5
+[白色相簿2]優しい嘘(友好的谎言) 总谱.gp5
+[白色相簿2]冬の街路树 总谱.gp5
+[白色相簿2]吐露 总谱.gp5
+[白色相簿2]圣歌 总谱.gp5
+[白色相簿2]届かない恋 live at campus fes 总谱.gp5
+[白色相簿2]届かない恋 总谱.gp4
+[白色相簿2]届かない恋(传达不到的爱恋) '2013版 总谱.gp5
+[白色相簿2]幸せな記憶 钢琴.gp5
+[白色相簿2]心はいつもあなたのそばに 总谱.gp5
+[白色相簿2]心はいつもあなたのそばに(我的心一直在你身边) 钢琴.gp5
+[白色相簿2]恋のような 钢琴.gp5
+[白色相簿2]愛する心 music box.gp5
+[白色相簿2]時の魔法 music box.gp5
+[白色相簿2]時の魔法 总谱.gp5
+[白色相簿2]最后に残るもの(最后残留的东西) 总谱.gp5
+[白色相簿2]本当の、嘘(认真的、谎言) 总谱.gp5
+[白色相簿2]氷の刃 钢琴.gp5
+[白色相簿2]溶け合う心(融在一起的心) 总谱.gp5
+[白色相簿2]爱する心(深爱之心) 总谱.gp5
+[白色相簿2]稳やかに過ぎゆく時 总谱.gp5
+[白色相簿2]綺麗で夢いもの 总谱.gp5
+[白色相簿2]约束の场所 总谱.gp5
+[白色相簿2]聖夜 总谱.gp5
+[白色相簿2]见果てぬ梦(不能实现的梦想) 钢琴&吉他.gp5
+[白色相簿2]言叶にできない想い(不能说明的思念) 总谱.gp5
+[白色相簿2]谁かが伤ついても 总谱.gp5
+[白色相簿2]过场动画bgm 1.gp5
+[白色相簿2]过场动画bgm 2.gp5
+[白色相簿2]静かな冬の夜(宁静的冬夜) 总谱.gp5
+[白色相簿]恋空色.ove
+[监狱学园]爱のプリズン(爱的监狱) 总谱.gp5
+[相聚一刻]予感 指弹.gp5
+[真三国无双]cry for wind 总谱.gp5
+[真三国无双]dance macabre 总谱.gp5
+[真三国无双]dark angel 总谱.gp5
+[真三国无双]eve 总谱.gp5
+[真三国无双]in full bloom 总谱.gp5
+[真三国无双]straight ahead 总谱.gp5
+[真三国无双]struggle for existence 总谱.gp4
+[真三国无双]superior winning 总谱.gp5
+[真三国无双]the elegy of battle 总谱.gp5
+[真三国无双]the road to 总谱.gp5
+[真三国无双]theme of lu bu 总谱.gp5
+[真三国无双]theme of lu bu 总谱2.gp5
+[真三国无双]wall of fate 总谱.gp5
+[真三国无双]吕布登场 总谱.gp5
+[真三国无双]夷陵之战 总谱.gp5
+[真女神转生]reach out to the truth 总谱.gp5
+[真实之泪]オレンジが落ちていく時(橘子坠落之时) 指弹.gp5
+[真实之泪]リフレクティア(reflectia) 指弹.gp5
+[石原贵雅]dear my friend 指弹.gp5
+[神不在的星期天]impatience 指弹.gp5
+[神的记事本]カワルミライ(变化的未来) 吉他.gp5
+[秒速五厘米]end theme 指弹.gp5
+[秒速五厘米]one more time one more chance 总谱.gp5
+[秒速五厘米]one more time one more chance 指弹.gp5
+[秒速五厘米]one more time,one more chance 指弹2.gp5
+[秒速五厘米]同じ空の下で 指弹.gp5
+[秒速五厘米]想い出は遠くの日々(回忆遥远的往昔) 指弹.gp5
+[秒速五厘米]花苗的心情 指弹.gp5
+[秦时明月]飞雪玉花 指弹.gp5
+[空之境界]空の境界 指弹.gp5
+[空之轨迹]星之所在 指弹.gp5
+[空之轨迹]星之所在 指弹2.gp5
+[空之轨迹]琥珀之爱 双吉他.gp5
+[空之轨迹]琥珀之爱 指弹.gp5
+[空之轨迹]空之轨迹3bgm 指弹.gp5
+[空之轨迹]陽だまりにて和む猫 合奏.gp5
+[空之轨迹]陽だまりにて和む猫(阳光下躺着的猫) 指弹.gp5
+[穿越时空的少女]不变的永远 指弹.gp5
+[穿越时空的少女]石榴石 钢琴.gp5
+[童年]我在马路边捡到一分钱 总谱.gp5
+[精灵世纪]霞光 指弹.gp5
+[素晴らしき日々]リビングゲーム 总谱.gp5
+[红猪]樱桃成熟时 指弹.gp5
+[红警2]hell march 总谱.gpx
+[红警]红警ost 总谱.gp5
+[约会大作战]date a live 总谱2.gp5
+[约会大作战]date a live 总谱tv.size.gp5
+[约会大作战]デート?ア?ライブ 吉他&贝斯.gp5
+[约会大作战]デート?ア?ライブ 钢琴.pdf
+[织田信奈的野望]link 吉他.gp5
+[绝园的暴风雨]happy ending 贝斯.gp5
+[绝对双刃]absolute soul 总谱.gp5
+[绝对防御利维坦]始まりのresolution 吉他贝斯.gp5
+[绿色兵团]背景音乐 总谱.gp5
+[缘之空]比翼の羽根 指弹.gp5
+[缘之空]膝枕で过ごす放课后 指弹.gp5
+[缘之空]遠い空へ 总谱.gp5
+[缘之空]願い 钢琴.gp5
+[网球王子]future 总谱.gp4
+[罪恶王冠]ablib ⅱ 指弹.gp5
+[罪恶王冠]ablib ⅱ 指弹.gpx
+[罪恶王冠]bios 钢琴.ove
+[罪恶王冠]departures 钢琴.ove
+[罪恶王冠]euterpe 钢琴.ove
+[罪恶王冠]friends 钢琴.pdf
+[罪恶王冠]home in this corner 总谱.gp5
+[罪恶王冠]my dearest (tv edition)  总谱.gp5
+[罪恶王冠]my dearest 键盘.gp5
+[罪恶王冠]my dearest(in c) 指弹.gp5
+[罪恶王冠]planetes 指弹.gp5
+[罪恶王冠]releas my soul 指弹.gp5
+[罪恶王冠]the everlasting guilty crown tv size.吉他cover.gp5
+[罪恶王冠]the everlasting guilty crown 钢琴.pdf
+[罪恶王冠]告白 吉他cover.gp5
+[罪恶王冠]告白 总谱.gp5
+[罪恶王冠]告白 贝斯cover.gp5
+[罪恶王冠]大贫民 指弹.gp5
+[罪恶装备]babel nose 总谱.gp4
+[罪恶装备]be just or be dead 总谱.gp5
+[罪恶装备]be just or be dead 总谱2.gp4
+[罪恶装备]bloodstained lineage 总谱.gp5
+[罪恶装备]blue water, blue sky 总谱.gp5
+[罪恶装备]drunkard does make wise remarks 总谱.gp5
+[罪恶装备]exceptional routine work 总谱.gp5
+[罪恶装备]existence 总谱.gp5
+[罪恶装备]fatal duel 总谱.gp5
+[罪恶装备]feedback 总谱.gp5
+[罪恶装备]feel a fear 总谱.gp4
+[罪恶装备]fixed idea 总谱.gp4
+[罪恶装备]fuuga 总谱.gp5
+[罪恶装备]good manners and customs 总谱.gp5
+[罪恶装备]in the ams of death 总谱.gp5
+[罪恶装备]momentary life 总谱.gp5
+[罪恶装备]no mercy 总谱.gp5
+[罪恶装备]noontide 总谱.gp4
+[罪恶装备]primal light 总谱.gp4
+[罪恶装备]riches in me 总谱.gp5
+[罪恶装备]riches in me 总谱2.gp5
+[罪恶装备]still in the dark 总谱.gp5
+[罪恶装备]suck a sage 总谱.gp5
+[罪恶装备]the awe of she 总谱.gp5
+[罪恶装备]the cat attached to the rust 总谱.gp5
+[罪恶装备]the midnight carnival 总谱.gp5
+[罪恶装备]till next time 总谱.gp5
+[罪恶装备]writhe in pain 总谱.gp5
+[美国末日]the last of us 吉他.gp5
+[美国末日]the last of us 吉他.gpx
+[美少女战士]moon pride 总谱.gp5
+[美少女战士]月光传说 总谱.gp5
+[美少女战士]月光传说 指弹.gp5
+[美少女梦工厂4]玻璃镜之梦 指弹.gp5
+[美少女梦工场4]bgm 指弹.gp5
+[翼年代记]siren song 总谱.gp5
+[翼年代记]you are my love 总谱.gp5
+[聪明的一休]一休和尚 指弹.gp5
+[脑内障碍选项]太陽と月のcross 吉他.gp5
+[舞-hime]it's only a fairy tale 指弹.gp5
+[舞-hime]it's only a fairy tale 指弹2.gp5
+[舞-hime]你就是天空 总谱.gp5
+[舰队collection]ふぶき(吹雪) 总谱.gp5
+[舰队collection]海色 总谱.gp5
+[舰队collection]海色 总谱2.gp5
+[花开伊吕波]hazy 总谱.gp5
+[花开伊吕波]hazy 指弹.gp5
+[花开伊吕波]ハナノイロ 总谱.gp5
+[花开伊吕波]ハナノイロ 指弹.gp5
+[花开伊吕波]リップシンク 总谱.gp5
+[花开伊吕波]面影ワープ 总谱.gp5
+[花水木]ハナミズキ 指弹.gp5
+[花舞少女]花ハ踊レヤいろはにほ 钢琴.gp5
+[花舞少女]花雪 指弹.gp5
+[苍蓝钢铁的琶音]savior of song 吉他.gp5
+[英雄传说5]海之槛歌 双吉他.gp5
+[英雄联盟]bit rush 总谱.gp5
+[英雄联盟]get jinxed 总谱.gp5
+[英雄联盟]暴走萝莉金克斯主题曲 总谱.gp5
+[荒野大镖客]荒野大镖客ost 总谱.gp5
+[菊次郎的夏天]菊次郎的夏天 指弹.gp5
+[萝球社!]shoot! 总谱.gp5
+[蔷薇少女]被禁忌的游戏 指弹by広能昌三.gp5
+[虫之歌]放課後、教室で 钢琴.gp5
+[虫之歌]記憶の欠片(记忆的碎片) 总谱.gp5
+[虫之歌]陽だまり(晴朗) 总谱.gp5
+[虫师]shiver 指弹.gp5
+[虫师]the sore feet song 指弹.gp5
+[虫师]the sore feet song 指弹2.gp5
+[虫师]みどりのピザ 指弹.gp5
+[蜘蛛侠]spider man 指弹.gp5
+[蜡笔小新]街上的动物园 总谱.gp5
+[蜡笔小新]街上的动物园 总谱2.gp5
+[血凝]ありがとうあなた 指弹.gp5
+[街头霸王]ken 总谱.gp5
+[街头霸王]春丽 总谱.gp5
+[要听爸爸的话]不安な想い(不安的心情) 总谱.gp5
+[要听爸爸的话]爽やかな日常 吉他钢琴.gp5
+[记录的地平线]database 吉他.gp5
+[质量效应]i was lost without you 总谱.gp5
+[贫乏神来了!]make my day 吉他.gp5
+[贫乏神来了!]恋暴动 双吉他.gp5
+[赤影战士]战斗 总谱.gp5
+[赤影战士]赤影战士 总谱.gp5
+[起风了]ひこうき雲(飞机云) 指弹.gp5
+[起风了]旅路(梦中飞行) 指弹.gp5
+[超时空要塞]lion 总谱.gp5
+[超时空要塞]ライオン(lion) 吉他.gp5
+[超时空要塞]可曾记得爱 总谱.gp5
+[超时空要塞]星間飛行 吉他.gp5
+[超时空要塞]星间飞行 吉他贝斯.gp5
+[超电磁炮]dear my friend 指弹.gp5
+[超电磁炮]grow slowly 吉他.gp5
+[超电磁炮]grow slowly 贝斯.gp5
+[超电磁炮]level5-judgelight 总谱.gp5
+[超电磁炮]level5-judgelight 总谱2.gp5
+[超电磁炮]level5-judgelight 指弹.gp5
+[超电磁炮]only my railgun 总谱 2.gp5
+[超电磁炮]only my railgun 总谱.gp5
+[超电磁炮]sister's noise 总谱.gp5
+[超电磁炮]smile you&me 吉他.gp5
+[超级机器人大战]ash to ash 总谱.gp5
+[超级机器人大战]srw-og  armageddon 总谱.gp5
+[超级机器人大战]時を越えて 总谱.gp5
+[超级机器人大战]超级机器人大战 总谱.gp5
+[超级玛丽]slider 总谱.gp5
+[超级玛丽]snow mountain 总谱.gp5
+[超级玛丽]world underwater theme 总谱.gp5
+[超级玛丽]背景音乐 总谱.gp4
+[超级玛利]游戏 总谱.gp3
+[超级玛利]游戏 总谱2.gp3
+[超级玛莉]第二关 贝斯.gp4
+[超级玛莉]过关 总谱.gp4
+[超级索尼子]ぱわー 吉他.gp5
+[超级马里奥]超级马里奥ost 总谱.gp5
+[超级马里奥]超级马里奥ost 总谱2.gp5
+[足球小将]燃烧的英雄 总谱.gp5
+[跑跑卡丁车]大厅 指弹.gp5
+[跑跑卡丁车]跑跑卡丁车开场曲 指弹.gp5
+[路人女主的养成方法]カラフル 指弹.gp5
+[路人女主的养成方法]君色シグナル 总谱.gpx
+[轻音]cagayake! girls 总谱.gp5
+[轻音]cagayake! girls 总谱2.gp5
+[轻音]cagayake! girls总谱3.gp5
+[轻音]coolly hotty tension hi(小和角色歌) 总谱.gp5
+[轻音]dear my keys ～鍵盤の魔法～ 总谱.gp5
+[轻音]death devil 总谱.gp5
+[轻音]don't say lazy 总谱2.gp5
+[轻音]don't say lazy 总谱3.gp5
+[轻音]don’t say lazy 官方版总谱.gp5
+[轻音]genius...! 总谱.gp5
+[轻音]go！go！maniac 总谱.gp5
+[轻音]happy!？ sorry!! 总谱.gp5
+[轻音]heart goes boom 贝斯.gp5
+[轻音]hold on your love 总谱.gp5
+[轻音]honey sweet tea time 总谱.gp5
+[轻音]jajauma way to go 总谱.gp5
+[轻音]let's go 总谱.gp5
+[轻音]listen 总谱.gp5
+[轻音]listen 总谱2.gp5
+[轻音]love 总谱.gp5
+[轻音]lovely sister love 总谱.gp5
+[轻音]maddy candy 总谱.gp5
+[轻音]maddy candy 总谱2.gp5
+[轻音]no thank you 官方版总谱.gp5
+[轻音]no thank you 总谱.gp5
+[轻音]singing 总谱.gp5
+[轻音]sweet bitter beauty song 总谱.gp5
+[轻音]u&i 官方版总谱.gp5
+[轻音]utauyo!! miracle 总谱.gp5
+[轻音]おはよう、またあした 贝斯.gp5
+[轻音]けいおん!!音楽大好き! 现音研remix 总谱.gp5
+[轻音]けん玉君 总谱.gp5
+[轻音]ごはんはおかず米饭是菜 总谱.gp5
+[轻音]じゃじゃ馬way to go 总谱.gp5
+[轻音]じゃじゃ馬way to go 总谱2.gp5
+[轻音]ときめきシュガー(令人心跳的砂糖) 总谱.gp5
+[轻音]ぴゅあぴゅあはーと 总谱.gp5
+[轻音]ふわふわ时间(short ver.).gp5
+[轻音]カレーのちライス咖哩之后是白米饭 总谱.gp5
+[轻音]ギー太に首ったけ solo.gp5
+[轻音]ギー太に首ったけ 吉他.gp5
+[轻音]ギー太に首ったけ.gp5
+[轻音]五月雨20ラブ 总谱.gp5
+[轻音]五月雨20ラブ 总谱2.gp5
+[轻音]咖喱和米饭 总谱.gp5
+[轻音]我的恋爱就像订书机 总谱.gp5
+[轻音]我的恋爱就像订书机 总谱2.gp5
+[轻音]我的恋爱就像订书机 指弹.gp5
+[轻音]我的恋爱就像订书机平沢唯扫弦版.gp5
+[轻音]校歌 指弹.gp5
+[轻音]樱兰高校之歌 solo.gp5
+[轻音]毛笔圆珠笔 总谱.gp5
+[轻音]毛笔圆珠笔(short ver.) 总谱.gp5
+[轻音]相遇天使 总谱.gp5
+[轻音]相遇天使 指弹.gp5
+[轻音]相遇天使 指弹2.gp5
+[轻音]真锅和 总谱.gp5
+[轻音]私の恋はホツキス 总谱.gp5
+[轻音]私の恋はホツキス(short ver.).gp5
+[轻音]私は私の道を行く 总谱.gp5
+[轻音]给我一双翅膀 总谱.gp5
+[轻音]给我一双翅膀 总谱2.gp5
+[轻音]菜比米饭多 总谱.gp5
+[轻音]请给我翅膀 总谱.gp5
+[轻音]请给我翅膀 总谱2.gp5
+[轻音]轻飘飘的时间 总谱.gp5
+[轻音]轻飘飘的时间 指弹.gp5
+[轻音]过场2.gp5
+[轻音]过场3.gp5
+[轻音]过场4.gp5
+[轻音]阿梓喵solo.gp5
+[轻音]青春vibration 总谱.gp5
+[这个是僵尸吗]惨劇の記憶 总谱.gp5
+[这个是僵尸吗]魔カセテtonight 双吉他.gp5
+[这个是僵尸吗]魔カセテtonight 双吉他2.gp5
+[进击的巨人]great escape 总谱.gp5
+[进击的巨人]红莲の弓矢 总谱(管弦乐).gp5
+[进击的巨人]红莲の弓矢 总谱.gp5
+[进击的巨人]红莲の弓矢 总谱2.gp5
+[进击的巨人]红莲の弓矢 指弹.gp5
+[进击的巨人]美しき残酷な世界 吉他贝斯.gp5
+[进击的巨人]美しき残酷な世界(美丽而残酷的世界) 指弹.gp5
+[进击的巨人]自由の翼 总谱.gp5
+[迪迦奥特曼]奇迹再现 总谱.gp5
+[迷茫管家和懦弱的我]be starters! 总谱(转码失败).tg
+[迷茫管家和懦弱的我]be starters! 总谱简化版.gp5
+[通灵王]omokage 总谱.gp5
+[遥仰凰华]ともしびのうた 总谱.gp5
+[遥仰凰华]ゆりかご 总谱.gp5
+[遥仰凰华]一人振り向いて 总谱.gp5
+[遥仰凰华]夜明けを運ぶ風 总谱.gp5
+[遥仰凰华]普通の一日 总谱.gp5
+[遥仰凰华]暗闇に遊ぶ 总谱.gp5
+[遥仰凰华]理事長ご機嫌如何 总谱.gp5
+[遥仰凰华]血族 总谱.gp5
+[遥仰凰华]風薫る朝 总谱.gp5
+[邻座的怪同学]どれだけ希望を持ったのか 指弹.gp5
+[重装武器]ディアブレイブ(dear brave) 总谱(tv.size).gp5
+[野良神]午夜の待ち合わせ 双吉他.gp5
+[野良神]午夜の待ち合わせ(午夜大会师) 总谱.gp5
+[金刚葫芦娃]葫芦娃 指弹.gp5
+[钢炼fa]ホログラム(全息图) 总谱.gpx
+[钢炼fa]嘘 总谱.gp5
+[钢炼]again 总谱.gp5
+[钢炼]メリッサ (melissa) 总谱.gp5
+[钢炼]兄弟 总谱.gp5
+[钢炼]兄弟 指弹.gp5
+[钢炼]兄弟 指弹2.gp5
+[钢炼]扉の向こうへ(门之彼端) 总谱.gp5
+[钢炼]瞬間センチメンタル 总谱2.gp5
+[钢炼]瞬间センチメンタル 总谱.gp5
+[银魂]let's go out 吉他.gp5
+[银魂]mr.raindrop 总谱.gp5
+[银魂]pray 总谱.gp5
+[银魂]pray 总谱2.gp5
+[银魂]お前の母ちゃん××（何人）だ!(你的妈妈是何人) 总谱.gp5
+[银魂]サクラミツツキ 吉他.gp5
+[银魂]サクラミツツキ(倾城篇-樱满月) 总谱.gp5
+[银魂]プライド革命 总谱tv.size.gp5
+[银魂]万事屋blues 吉他.gp5
+[银魂]修罗 总谱.gp5
+[银魂]我爱你 总谱.gp5
+[银魂]昔の友人が変わらずにいるというのも悪くないものだな(老朋友没变也挺不错的么) 总谱.gp5
+[银魂]昔日友人 总谱.gp5
+[银魂]昔日友人 指弹.gp5
+[银魂]桃源郷エイリアン(桃源乡的外星人) 总谱.gp5
+[银魂]武士之魂 总谱2.gp5
+[银魂]武士之魂(歌舞伎四天王篇) 总谱.gp5
+[银魂]現状デストラクション 贝斯.gp5
+[银魂]鉄を叩きながら てめーの魂を叩き上げ(一边炼铁,一边炼就你的灵魂) 指弹.gp5
+[银魂]阴天 总谱.gp5
+[银魂]阴天 总谱2.gp5
+[阳炎project]children 吉他.gp5
+[阳炎project]daze 双吉他.gp5
+[阳炎project]daze 吉他.gp5
+[阳炎project]kagerou days 吉他.gp5
+[阳炎project]kisaragi attention 吉他.gp5
+[阳炎project]losstime memory 双吉他.gp5
+[阳炎project]outer science 双吉他.gp5
+[阳炎project]夜話ディセイブ 双吉他.gp5
+[阳炎project]文乃的幸福理论 总谱.gp5
+[阳炎project]文乃的幸福理论 总谱2.gp5
+[阳炎project]文乃的幸福理论 指弹.gp5
+[阳炎project]透明answer 吉他.gp5
+[青之驱魔师]core pride 吉他solo.gp5
+[青之驱魔师]core pride 总谱.gp5
+[青之驱魔师]in my world 总谱.gp5
+[青之驱魔师]me & creed 总谱.gp5
+[青春之旅]世界は恋に落ちている 双吉他.gp5
+[青空下的约定]5月のミルキー ウェイ 总谱.gp5
+[青空下的约定]calling you 总谱.gp5
+[青空下的约定]come here and go there 总谱.gp5
+[青空下的约定]fragile 总谱.gp5
+[青空下的约定]pieces 钢琴小提琴.gp5
+[青空下的约定]rockin' mokkin' chair 总谱.gp5
+[青空下的约定]sae-chan's staccato 总谱.gp5
+[青空下的约定]stand up! girls 总谱.gp5
+[青空下的约定]through the dark 总谱.gp5
+[青空下的约定]two of us, seven of us 总谱.gp5
+[青空下的约定]はぐれ雲のブルース 指弹.gp5
+[青空下的约定]もうひとつの青空 总谱.gp5
+[青空下的约定]もつれそうなストライド 总谱.gp5
+[青空下的约定]ゆうなぎ - guitar version.gp5
+[青空下的约定]ゆうなぎ - piano version.gp5
+[青空下的约定]アサガオの気持ち 总谱.gp5
+[青空下的约定]タイムトライアル＆インターバル 总谱.gp5
+[青空下的约定]フォークダンス 总谱.gp5
+[青空下的约定]今日も笑顔で 总谱.gp5
+[青空下的约定]嘘と自転車 总谱.gp5
+[青空下的约定]夜空に溶けた麦わら帽 总谱.gp5
+[青空下的约定]太陽と海のメロディ 总谱.gp5
+[青空下的约定]怪談 总谱.gp5
+[青空下的约定]有言実行！ 总谱.gp5
+[青空下的约定]热带鱼之梦 指弹.gp5
+[青空下的约定]熱帯魚の夢 总谱.gp5
+[青空下的约定]約束のブーケ 总谱.gp5
+[青空下的约定]遠雷 总谱.gp5
+[青空下的约定]陽だまりの散歩道.gp5
+[青空下的约定]風のアルペジオ 总谱.gp5
+[青空下的约定]风のアルペジオ 指弹.gp5
+[静斗士 翔]silent knight 总谱.gp5
+[革神語]the misfit go 吉他贝斯.gp5
+[风之谷]the road to the valley 指弹.gp5
+[风之谷]娜乌西卡的安魂曲 指弹.gp5
+[风之谷]风的传说 指弹.gp5
+[风之谷]风的传说 指弹2.gp5
+[风之谷]鸟之人 指弹.gp5
+[风见学园]dear my friend 指弹.gp5
+[飙速宅男]弱虫な炎(胆小鬼之火) 双吉他.gp5
+[飞轮少年]chain 吉他.gp5
+[食戟之灵]rising rainbow 总谱.gp5
+[食戟之灵]希望の唄(希望之歌) 总谱.gp5
+[食梦者玛丽]daydream syndrome 电吉他.gp5
+[马戏团]马戏团ost 总谱.gp5
+[驱魔少年]doubt&trust 总谱.gp5
+[驱魔少年]奏之曲 指弹.gp5
+[高达00]ash like snow 总谱.gp5
+[高达bf]ニブンノイチ 鼓谱.gp5
+[高达]daybreaks bell 总谱.gp5
+[高达]fields of hope 双吉他.gp5
+[高达]fields of hope 指弹.gp5
+[高达]i wanna go to a place 总谱.gp5
+[高达]invoke 总谱.gp5
+[高达]wings 总谱.gp5
+[高达]你与我相似 总谱.gp5
+[高达]我们的去向 总谱.gp5
+[高达]晓之车 指弹.gp5
+[高达]晓之车 指弹2.gp5
+[高达]深海的孤独 总谱.gp5
+[高达]自由与正义 总谱.gp5
+[鬼泣]tender surrender 指弹.gp5
+[鬼泣]鬼泣 总谱.gp5
+[鬼泣]鬼泣op 吉他&鼓.gp5
+[魂斗罗]第一、七关 总谱.gp3
+[魂斗罗]第三关 总谱.gp3
+[魂斗罗]第二、四关 总谱.gp3
+[魂斗罗]第五关 总谱.gp3
+[魂斗罗]第八关 总谱.gp3
+[魂斗罗]第六关 总谱.gp3
+[魂斗罗]结束 总谱.gp3
+[魂斗罗]通关 总谱.gp4
+[魂斗罗]通关 总谱2.gp4
+[魂斗罗]通关 指弹.gp5
+[魍魉之匣]lost in blue 总谱.gp5
+[魔兽世界]alliance tavern 指弹.gp5
+[魔兽世界]betrayal 总谱.gp4
+[魔兽世界]betrayal(metal version) 总谱.gp4
+[魔兽世界]gallows end 指弹.gp5
+[魔兽世界]horde 总谱.gp4
+[魔兽世界]human death 总谱.gp4
+[魔兽世界]human victory 总谱.gp4
+[魔兽世界]human 总谱.gp3
+[魔兽世界]human 总谱2.gp4
+[魔兽世界]human 总谱3.gp4
+[魔兽世界]human2 总谱.gp4
+[魔兽世界]human3 总谱.gp4
+[魔兽世界]intro 总谱.gp4
+[魔兽世界]karazhan 总谱.gp5
+[魔兽世界]karazhan 指弹.gp5
+[魔兽世界]lament of the highborne 指弹.gp5
+[魔兽世界]one and the same 总谱.gp5
+[魔兽世界]orc death 总谱.gp4
+[魔兽世界]orc victory 总谱.gp4
+[魔兽世界]orc 总谱.gp4
+[魔兽世界]orc2 总谱.gp4
+[魔兽世界]orc3 总谱.gp4
+[魔兽世界]orc4 总谱.gp4
+[魔兽世界]salty sailor 指弹.gp5
+[魔兽世界]slaughtered lamb 指弹.gp5
+[魔兽世界]temple of the moon 指弹.gp5
+[魔兽世界]the power of the horde 总谱.gp4
+[魔兽世界]亡灵序曲 总谱.gp5
+[魔兽世界]亡灵序曲 总谱2.gp5
+[魔兽世界]亡灵序曲 指弹.gp5
+[魔兽世界]大灾变-暴风城(管弦乐重编配) 总谱.gp5
+[魔力女管家]归途 指弹.gp5
+[魔力家族]magenta another sky 吉他.gp5
+[魔卡少女樱]groovy! 总谱.gp4
+[魔女宅急便]母亲的扫帚 指弹.gp5
+[魔女宅急便]能看见海的城市 指弹.gp5
+[魔女宅急便]风之丘 指弹.gp5
+[魔术快斗]アイのシナリオ(爱的剧本) 吉他.gp5
+[魔法少女奈叶]beautiful amulet 总谱.gp5
+[魔法少女奈叶]innocent starter 总谱.gp5
+[魔法少女小圆]and i‘m home 总谱.gp5
+[魔法少女小圆]answer is near 总谱.gp5
+[魔法少女小圆]connect 总谱.gp5
+[魔法少女小圆]connect 指弹 by武士桑.gp5
+[魔法少女小圆]connect 指弹2.gp5
+[魔法少女小圆]connect 指弹3.gp5
+[魔法少女小圆]connect 钢琴.ove
+[魔法少女小圆]magia 指弹.gp5
+[魔法少女小圆]sis puella magica! 四手联弹.ove
+[魔法少女小圆]untitled soundtrack 指弹.gp5
+[魔法少女小圆]またあした(明天见) 指弹.gp5
+[魔法少女小圆]またあした-鹿目圆香 总谱.gp5
+[魔法少女小圆]宿命 总谱.gp5
+[魔法战争]born to be 吉他贝斯.gp5
+[魔法禁书目录]masterpiece 总谱.gp5
+[魔法禁书目录]no buts 指弹.gp5
+[魔法禁书目录]psi-missing 双吉他.gp5
+[魔法科高校的劣等生]rising hope 总谱.gp5
+[魔法科高校的劣等生]rising hope 贝斯.gp5
+[魔法老师]happy material 总谱.gp5
+[魔法骑士]无法割舍的祈祷 总谱.gp5
+[魔界村外传-紋章篇]battle of the zombie dragon 总谱.gp5
+[魔界村外传-紋章篇]beyond the colosseum 总谱.gp5
+[魔界村外传-紋章篇]catacombs of the dead 总谱.gp5
+[魔界村外传-紋章篇]challenge of devils intro 总谱.gp5
+[魔界村外传-紋章篇]challenge of devils 总谱.gp5
+[魔界村外传-紋章篇]choose thine options 总谱.gp5
+[魔界村外传-紋章篇]legend of firebrand 总谱.gp5
+[魔界村外传-紋章篇]metropolis of ruin 总谱.gp5
+[魔界村外传-紋章篇]opening 总谱.gp5
+[魔界村外传-紋章篇]over the demon realm 总谱.gp5
+[魔界村外传-紋章篇]prelude to horror 总谱.gp5
+[魔界村外传-紋章篇]the chronicler 总谱.gp5
+[魔界村外传-紋章篇]the shopkeeper 总谱.gp5
+[麻枝准]火吹き山の魔法使い 吉他.gp5
+[麻枝准]終わりの世界から 总谱.gp5
+[黑之契约者]twinkle real star 钢琴&贝斯.gp5
+[黑之契约者]ツキアカリのミチシルベ(月光的指引) 总谱.gp5
+[黑子的篮球]can do 吉他.gp5
+[黑子的篮球]rimfire 吉他贝斯.gp5
+[黑子的篮球]the other self 总谱.gp5
+[黑岩射手]black rock shooter 总谱2.gp5
+[黑岩射手]black rock shooter(ブラック★ロックシューター) 总谱.gp5
+[黑岩射手]braveheart 总谱.gp5
+[黑岩射手]no scared 总谱.gp5
+[黑岩射手]僕らのあしあと(我们的足迹) 总谱.gp5
+[黑执事]黑白之吻 总谱.gp5
+[黑猫]世界之歌 指弹.gp5
+[黑猫警长]黑猫警长op 指弹.gp5
+[龙x虎]優しさの足音 双吉他.gp5
+[龙与虎]orange 双吉他.gp5
+[龙与虎]pre parade 总谱.gp5
+[龙与虎]vanilla salt 总谱.gp5
+[龙与虎]優しさの足音(温柔的脚步声) 指弹.gp5
+[龙猫]道に迷う子供 指弹.gp5
+[龙猫]邻家的龙猫 指弹.gp5
+[龙猫]风之涌道 指弹 2.gp5
+[龙猫]风之涌道 指弹 by南泽大介.gp5
+[龙猫]风之涌道 指弹.gp5
+[龙猫]风之甬道 总谱.gp5
+[龙珠gt]dan dan 心魅かれてく 总谱2.gp5
+[龙珠gt]dan dan 心魅かれてく(渐渐被你吸引) 总谱.gp4
+[龙珠]cha la head cha la 2.gp5
+[龙珠]cha la head cha la 3.gp5
+[龙珠]cha la head cha la 总谱.gp5
+[龙珠]cha la head cha la 总谱2.gp5
+[龙珠]cha la head cha la 指弹.gp5
+[龙珠]不可思议大冒险 指弹 2.gp5
+[龙珠]不可思议大冒险 指弹.gp5
+[龙珠]逐渐被你吸引 总谱.gp5
+导出当前目录下所有文件名.bat
